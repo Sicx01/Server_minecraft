@@ -309,3 +309,74 @@
 [01Sep2025 05:22:15.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:40961] logged in with entity id 5877 at (61.81643989456739, -139.8166785098648, 178.13009592113966)
 [01Sep2025 05:22:15.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
 [01Sep2025 05:22:15.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-16.72062701711559,0.0
+[01Sep2025 05:22:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:22:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell from a high place
+[01Sep2025 05:22:26.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:22:38.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:22:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell from a high place
+[01Sep2025 05:22:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:22:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:23:37.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm has made the advancement [Diamonds!]
+[01Sep2025 05:24:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [canchitacumm: Teleported DaniPelon to canchitacumm]
+[01Sep2025 05:24:37.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DaniPelon> tp danipelon canchitacumm
+[01Sep2025 05:24:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DaniPelon: Teleported DaniPelon to canchitacumm]
+[01Sep2025 05:24:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [canchitacumm: Teleported canchitacumm to DaniPelon]
+[01Sep2025 05:25:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan blew up
+[01Sep2025 05:25:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon tried to swim in lava
+[01Sep2025 05:26:06.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 05:26:06.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 05:26:06.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 05:26:12.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:52841] logged in with entity id 7005 at (56.83323459605202, -133.4458497441125, 188.24272718550873)
+[01Sep2025 05:26:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 05:26:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 05:26:35.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lucky Villager'/6877, l='ServerLevel[Lucky Blocks map]', x=61.30, y=-269.68, z=185.73] died, message: 'Lucky Villager fell out of the world'
+[01Sep2025 05:26:35.090] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lucky Villager'/6877, l='ServerLevel[Lucky Blocks map]', x=61.30, y=-269.68, z=185.73] died: Lucky Villager fell out of the world
+[01Sep2025 05:26:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon has reached the goal [The Next Generation]
+[01Sep2025 05:27:35.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 05:27:35.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 05:27:35.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 05:27:39.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm was kicked for floating too long!
+[01Sep2025 05:27:39.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm lost connection: Flying is not enabled on this server
+[01Sep2025 05:27:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm left the game
+[01Sep2025 05:27:41.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:59775] logged in with entity id 7650 at (62.62500151487502, -133.4458497441125, 200.63588297313444)
+[01Sep2025 05:27:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 05:27:42.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan moved too quickly! 0.0,-20.941477091058317,0.0
+[01Sep2025 05:27:43.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 05:27:49.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:58705] logged in with entity id 7672 at (64.05946763676339, -122.61295510028847, 202.0905704242545)
+[01Sep2025 05:27:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 05:27:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm fell out of the world
+[01Sep2025 05:27:52.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DaniPelon: Teleported canchitacumm to DaniPelon]
+[01Sep2025 05:27:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [canchitacumm: Teleported canchitacumm to DaniPelon]
+[01Sep2025 05:28:21.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bat['Flying michael'/7854, l='ServerLevel[Lucky Blocks map]', x=63.86, y=57.32, z=219.79] died: Flying michael burned to death
+[01Sep2025 05:28:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm was squashed by a falling anvil
+[01Sep2025 05:28:46.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [canchitacumm: Teleported DaniPelon to canchitacumm]
+[01Sep2025 05:28:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [canchitacumm: Teleported canchitacumm to LittleHappyMan]
+[01Sep2025 05:29:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DaniPelon: Teleported DaniPelon to canchitacumm]
+[01Sep2025 05:29:04.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:29:08.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:29:08.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell from a high place
+[01Sep2025 05:29:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:29:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan has reached the goal [The Next Generation]
+[01Sep2025 05:30:16.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm was kicked for floating too long!
+[01Sep2025 05:30:16.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm lost connection: Flying is not enabled on this server
+[01Sep2025 05:30:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm left the game
+[01Sep2025 05:30:23.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:33565] logged in with entity id 8617 at (65.29534942979984, -108.61050237670435, 227.08367761998716)
+[01Sep2025 05:30:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 05:30:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported canchitacumm to LittleHappyMan]
+[01Sep2025 05:30:27.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm fell from a high place
+[01Sep2025 05:30:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported canchitacumm to LittleHappyMan]
+[01Sep2025 05:30:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported canchitacumm to LittleHappyMan]
+[01Sep2025 05:31:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Set own game mode to Creative Mode]
+[01Sep2025 05:31:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Set own game mode to Spectator Mode]
+[01Sep2025 05:31:27.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['pls dont'/8324, l='ServerLevel[Lucky Blocks map]', x=132.59, y=-151.99, z=347.98] died: pls dont fell out of the world
+[01Sep2025 05:31:32.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 05:31:32.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 05:31:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 05:31:33.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Set own game mode to Survival Mode]
+[01Sep2025 05:31:38.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:53453] logged in with entity id 8667 at (62.319226970186065, -148.50788546441396, 250.8409323786128)
+[01Sep2025 05:31:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 05:31:39.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-20.167334378059138,0.0
+[01Sep2025 05:31:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported 3 entities to LittleHappyMan]
+[01Sep2025 05:31:40.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell from a high place
+[01Sep2025 05:31:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported 3 entities to LittleHappyMan]
+[01Sep2025 05:32:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon was shot by LittleHappyMan using [Lucky Bow]
