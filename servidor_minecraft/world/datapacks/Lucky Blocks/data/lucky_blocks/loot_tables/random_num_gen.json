@@ -1,0 +1,17 @@
+{
+    "pools": [{
+        "rolls": {
+            "min":1,
+            "max": 68
+        },
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:glass",
+            "functions": [{
+                "function": "set_count",
+                "count":0
+            }]
+
+        }]
+    }]
+} 

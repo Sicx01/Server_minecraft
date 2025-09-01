@@ -1,0 +1,2 @@
+execute store result score $isholdingsword lb.temp run data get entity @s SelectedItem.tag.luckysword
+execute if score $isholdingsword lb.temp matches 1 run function lucky_blocks:lucky_armor/strenghtcheck/activate

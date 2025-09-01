@@ -1,0 +1,150 @@
+[01Sep2025 04:41:52.433] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, --fml.forgeVersion, 48.1.0, --fml.mcVersion, 1.20.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230921.100330, nogui]
+[01Sep2025 04:41:52.436] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[01Sep2025 04:41:52.437] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.1 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[01Sep2025 04:41:52.562] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[01Sep2025 04:41:52.610] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server_minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2362!/ Service=ModLauncher Env=SERVER
+[01Sep2025 04:41:52.873] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.2-48.1.0/fmlcore-1.20.2-48.1.0.jar is missing mods.toml file
+[01Sep2025 04:41:52.874] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.2-48.1.0/javafmllanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[01Sep2025 04:41:52.876] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.2-48.1.0/lowcodelanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[01Sep2025 04:41:52.877] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.2-48.1.0/mclanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[01Sep2025 04:41:52.955] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[01Sep2025 04:41:54.366] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[01Sep2025 04:41:59.817] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 48.1.0, for MC 1.20.2 with MCP 20230921.100330
+[01Sep2025 04:41:59.819] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v48.1.0 Initialized
+[01Sep2025 04:42:01.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Sep2025 04:42:01.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 48.1.0 Target: null
+[01Sep2025 04:42:02.204] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01Sep2025 04:42:02.306] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.2-20230921.100330/server-1.20.2-20230921.100330-srg.jar%2397!/assets/.mcassetsroot' uses unexpected schema
+[01Sep2025 04:42:02.307] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server_minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.2-20230921.100330/server-1.20.2-20230921.100330-srg.jar%2397!/data/.mcassetsroot' uses unexpected schema
+[01Sep2025 04:42:02.357] [main/WARN] [net.minecraft.server.packs.repository.Pack/]: Missing metadata in pack file/Lucky Blocks.zip
+[01Sep2025 04:42:03.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Sep2025 04:42:04.070] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1272 advancements
+[01Sep2025 04:42:04.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.2
+[01Sep2025 04:42:04.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Sep2025 04:42:04.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Sep2025 04:42:04.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Sep2025 04:42:04.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Sep2025 04:42:04.737] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Sep2025 04:42:04.794] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Sep2025 04:42:04.795] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Sep2025 04:42:04.795] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Sep2025 04:42:04.795] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Sep2025 04:42:04.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[01Sep2025 04:42:04.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Sep2025 04:42:04.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[01Sep2025 04:42:04.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[01Sep2025 04:42:04.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[01Sep2025 04:42:04.814] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[01Sep2025 04:42:04.814] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[01Sep2025 04:42:04.814] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[01Sep2025 04:42:04.815] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[01Sep2025 04:42:04.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Sep2025 04:42:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Sep2025 04:42:07.217] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 04:42:07.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 04:42:07.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 04:42:07.223] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 04:42:07.224] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Sep2025 04:42:07.587] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[01Sep2025 04:42:08.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[01Sep2025 04:42:08.265] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3178 ms
+[01Sep2025 04:42:08.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.461s)! For help, type "help"
+[01Sep2025 04:42:08.283] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Sep2025 04:42:44.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:39483] logged in with entity id 8 at (53.5, 53.0, 15.5)
+[01Sep2025 04:42:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 04:42:45.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:49707] logged in with entity id 9 at (67.5, 53.0, 18.5)
+[01Sep2025 04:42:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 04:42:50.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:58437] logged in with entity id 10 at (69.5, 47.0, 27.5)
+[01Sep2025 04:42:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 04:43:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LittleHappyMan a server operator
+[01Sep2025 04:43:07.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 04:43:07.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 04:43:07.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 04:43:07.436] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Sep2025 04:43:15.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:38397] logged in with entity id 11 at (61.00813824710941, -140.61295510028845, 25.254475921738443)
+[01Sep2025 04:43:15.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 04:43:16.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan moved too quickly! 0.0,-20.837253796409755,0.0
+[01Sep2025 04:43:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 04:43:22.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 04:43:22.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 04:43:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 04:43:29.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:39293] logged in with entity id 13 at (62.677781454832605, -134.0846854375694, 23.75155187850387)
+[01Sep2025 04:43:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 04:43:29.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-19.960295622412247,0.0
+[01Sep2025 04:43:30.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell out of the world
+[01Sep2025 04:44:30.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Made DaniPelon a server operator]
+[01Sep2025 04:44:36.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Made canchitacumm a server operator]
+[01Sep2025 04:44:51.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 04:44:51.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 04:44:51.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 04:44:57.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:39911] logged in with entity id 146 at (63.96471336488523, -147.35944648505122, 28.711182132348874)
+[01Sep2025 04:44:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 04:44:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 04:44:58.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan moved too quickly! 0.0,-20.83515648173315,0.0
+[01Sep2025 04:45:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon has made the advancement [Acquire Hardware]
+[01Sep2025 04:46:00.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm was kicked for floating too long!
+[01Sep2025 04:46:00.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm lost connection: Flying is not enabled on this server
+[01Sep2025 04:46:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm left the game
+[01Sep2025 04:46:06.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:41293] logged in with entity id 543 at (66.31665838624225, -147.61411757526872, 43.04653430484948)
+[01Sep2025 04:46:06.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 04:46:06.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm moved too quickly! 0.0,-16.78067652140581,0.0
+[01Sep2025 04:46:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm fell out of the world
+[01Sep2025 04:46:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan has made the advancement [Diamonds!]
+[01Sep2025 04:46:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan has made the advancement [Acquire Hardware]
+[01Sep2025 04:47:03.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 04:47:03.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 04:47:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 04:47:10.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:55749] logged in with entity id 1093 at (59.38431245604083, -136.02054947466772, 63.528106524255016)
+[01Sep2025 04:47:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 04:47:11.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan moved too quickly! 0.0,-20.665804025625192,0.0
+[01Sep2025 04:47:11.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 04:47:13.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm was kicked for floating too long!
+[01Sep2025 04:47:13.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm lost connection: Flying is not enabled on this server
+[01Sep2025 04:47:13.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm left the game
+[01Sep2025 04:47:20.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:51951] logged in with entity id 1095 at (67.86947560569858, -137.24505903377582, 62.66278854254401)
+[01Sep2025 04:47:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 04:47:21.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm moved too quickly! 0.0,-16.832919590138317,0.0
+[01Sep2025 04:47:22.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm fell out of the world
+[01Sep2025 04:47:43.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm was kicked for floating too long!
+[01Sep2025 04:47:43.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm lost connection: Flying is not enabled on this server
+[01Sep2025 04:47:43.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm left the game
+[01Sep2025 04:47:49.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:42835] logged in with entity id 1098 at (67.87954232826739, -139.2374334252586, 63.396935869981526)
+[01Sep2025 04:47:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm joined the game
+[01Sep2025 04:47:50.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: canchitacumm moved too quickly! 0.0,-16.6017289986209,0.0
+[01Sep2025 04:47:51.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm fell out of the world
+[01Sep2025 04:48:22.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 04:48:22.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 04:48:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 04:48:29.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:41233] logged in with entity id 1267 at (61.43865824482337, -93.41142270382704, 71.41049475437326)
+[01Sep2025 04:48:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 04:48:33.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 04:48:59.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 04:48:59.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 04:48:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 04:49:04.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:49055] logged in with entity id 1382 at (69.17902286195728, -94.32890110959788, 69.56957065152802)
+[01Sep2025 04:49:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 04:49:07.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell out of the world
+[01Sep2025 04:49:29.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 04:49:29.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 04:49:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 04:49:35.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:48455] logged in with entity id 1389 at (69.26057931887026, -149.0209710494839, 78.69999998807907)
+[01Sep2025 04:49:35.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 04:49:35.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-16.778274541234197,0.0
+[01Sep2025 04:49:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell out of the world
+[01Sep2025 04:49:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DaniPelon: Teleported DaniPelon to canchitacumm]
+[01Sep2025 04:50:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm has completed the challenge [Uneasy Alliance]
+[01Sep2025 04:50:29.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm has made the advancement [Monster Hunter]
+[01Sep2025 04:50:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm has made the advancement [Take Aim]
+[01Sep2025 04:50:29.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon was fireballed by Ghast
+[01Sep2025 04:50:30.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1565, l='ServerLevel[Lucky Blocks map]', x=67.50, y=-267.91, z=95.50] died, message: 'Villager fell out of the world'
+[01Sep2025 04:50:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DaniPelon: Teleported DaniPelon to canchitacumm]
+[01Sep2025 04:50:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan has made the advancement [Isn't It Iron Pick]
+[01Sep2025 04:51:06.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 04:51:06.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 04:51:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 04:51:11.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:58835] logged in with entity id 1829 at (71.02410963435271, -98.93183510994167, 100.58675987049376)
+[01Sep2025 04:51:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 04:51:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell out of the world
+[01Sep2025 04:51:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan has made the advancement [Monster Hunter]
+[01Sep2025 04:51:40.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 04:51:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: canchitacumm blew up

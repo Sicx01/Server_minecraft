@@ -1,0 +1,13 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "entity": "this",
+      "lore": [
+        {
+          "text": "Get [1] Kills","italic":false,
+          "color": "light_blue"
+        }
+      ],
+      "replace": true
+    }
+  ]

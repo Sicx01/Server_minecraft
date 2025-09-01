@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "lucky_blocks:lucky_block"
+            }
+        }
+    },
+    "rewards": {
+        "function": "lucky_blocks:crafted/luckyblock"
+    }
+}

@@ -1,0 +1,1 @@
+give @s leather_helmet{Unbreakable:1,Tags:["helmet"],display:{color:16777021,Name:'[{"text":"Lucky Helmet","italic":false,"color":"yellow"}]'},Enchantments:[{id:"protection",lvl:3}],HideFlags:68} 1

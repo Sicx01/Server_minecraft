@@ -1,0 +1,1 @@
+execute store result score %number lb.random_num run loot spawn ~ ~ ~ loot lucky_blocks:random_num_gen

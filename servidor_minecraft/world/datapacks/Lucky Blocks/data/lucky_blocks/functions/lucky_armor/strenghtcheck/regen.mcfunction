@@ -1,0 +1,2 @@
+execute store result score $regensword lb.temp run data get entity @s SelectedItem.tag.luckysword
+execute if score $regensword lb.temp matches 1 unless entity @s[nbt={active_effects:[{id:"minecraft:regeneration"}]}] run effect give @s regeneration 5 1 

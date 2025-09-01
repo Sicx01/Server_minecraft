@@ -1,0 +1,11 @@
+execute at @s[scores={lb.cld_buster=180..200}] run title @s actionbar {"text":"10","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=160..180}] run title @s actionbar {"text":"9","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=140..160}] run title @s actionbar {"text":"8","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=120..140}] run title @s actionbar {"text":"7","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=100..120}] run title @s actionbar {"text":"6","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=80..100}] run title @s actionbar {"text":"5","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=60..80}] run title @s actionbar {"text":"4","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=40..60}] run title @s actionbar {"text":"3","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=20..40}] run title @s actionbar {"text":"2","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=1..20}] run title @s actionbar {"text":"1","color":"red","italic":false}
+execute at @s[scores={lb.cld_buster=1..1}] run title @s actionbar {"text":"","color":"red","italic":false}

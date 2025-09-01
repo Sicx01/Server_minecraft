@@ -1,0 +1,1 @@
+give @s bow{Unbreakable:1,ridebow:1b,display:{Name:'[{"text":"RideableBow","italic":false,"obfuscated":true,"color":"dark_red"}]',Lore:['[{"text":"?","italic":false}]']},Enchantments:[{id:"infinity",lvl:1},{id:"power",lvl:5}],HideFlags:4}
