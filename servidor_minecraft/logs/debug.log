@@ -1707,3 +1707,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Sep2025 05:02:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
 [01Sep2025 05:02:08.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Blocks map
 [01Sep2025 05:02:08.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Blocks map
+[01Sep2025 05:03:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan blew up
+[01Sep2025 05:03:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported LittleHappyMan to canchitacumm]
+[01Sep2025 05:06:45.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2025 05:06:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quide<--[HERE]
+[01Sep2025 05:06:57.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to LittleHappyMan: quide
+[01Sep2025 05:07:08.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Blocks map
+[01Sep2025 05:07:08.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Blocks map
+[01Sep2025 05:07:17.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to canchitacumm: el que lee esto es gei quide
+[01Sep2025 05:07:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to LittleHappyMan: el que lee esto es gei quide
+[01Sep2025 05:12:08.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Blocks map
+[01Sep2025 05:12:08.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Blocks map
