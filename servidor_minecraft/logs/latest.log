@@ -286,3 +286,26 @@
 [01Sep2025 05:06:57.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to LittleHappyMan: quide
 [01Sep2025 05:07:17.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to canchitacumm: el que lee esto es gei quide
 [01Sep2025 05:07:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to LittleHappyMan: el que lee esto es gei quide
+[01Sep2025 05:19:48.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:38341] logged in with entity id 5552 at (69.40831735195358, -289.96736167289777, 84.49906881425864)
+[01Sep2025 05:19:48.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 05:19:48.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon fell out of the world
+[01Sep2025 05:19:48.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-22.65454362315279,0.0
+[01Sep2025 05:20:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:20:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon blew up
+[01Sep2025 05:20:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan blew up
+[01Sep2025 05:20:36.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported LittleHappyMan to canchitacumm]
+[01Sep2025 05:20:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported DaniPelon to LittleHappyMan]
+[01Sep2025 05:21:36.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan was kicked for floating too long!
+[01Sep2025 05:21:37.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Flying is not enabled on this server
+[01Sep2025 05:21:37.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan left the game
+[01Sep2025 05:21:46.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:41759] logged in with entity id 5875 at (64.40825706468345, -137.8966997331184, 178.89562988248687)
+[01Sep2025 05:21:46.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan joined the game
+[01Sep2025 05:21:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LittleHappyMan fell out of the world
+[01Sep2025 05:21:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LittleHappyMan: Teleported LittleHappyMan to DaniPelon]
+[01Sep2025 05:22:08.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon was kicked for floating too long!
+[01Sep2025 05:22:08.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon lost connection: Flying is not enabled on this server
+[01Sep2025 05:22:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon left the game
+[01Sep2025 05:22:09.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: DaniPelon (/127.23.95.215:36285) lost connection: Disconnected
+[01Sep2025 05:22:15.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaniPelon[/127.23.95.215:40961] logged in with entity id 5877 at (61.81643989456739, -139.8166785098648, 178.13009592113966)
+[01Sep2025 05:22:15.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaniPelon joined the game
+[01Sep2025 05:22:15.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaniPelon moved too quickly! 0.0,-16.72062701711559,0.0
