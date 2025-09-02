@@ -1,0 +1,17 @@
+{
+	id: "7f06ed14-4bad-30d1-9140-d34f1d21cef5"
+	type: "player"
+	player_name: "canchitacumm"
+	ranks: {
+		7f06ed14-4bad-30d1-9140-d34f1d21cef5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "canchitacumm"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5975FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

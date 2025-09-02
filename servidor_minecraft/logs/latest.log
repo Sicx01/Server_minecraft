@@ -1209,3 +1209,43 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Sep2025 03:51:12.887] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cd9df1fb-57b2-3423-b645-e8ce7a03389c
 [02Sep2025 03:51:13.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported LittleHappyMan to Sicxtino]
 [02Sep2025 03:51:24.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported Noto64 to Sicxtino]
+[02Sep2025 03:51:30.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Disconnected
+[02Sep2025 03:51:30.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan left the game
+[02Sep2025 03:51:30.761] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 54af8cb0-fc6f-36d0-b2b3-4ab433f2b648
+[02Sep2025 03:51:33.199] [Server thread/INFO] [io.github.mortuusars.chalk.Chalk/]: Chalk cannot be drawn at this position. (359, 102, -267)
+[02Sep2025 03:51:44.163] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@311dd57f
+[02Sep2025 03:51:44.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: canchitacumm[/127.7.6.125:40593] logged in with entity id 54958 at (32.5, 69.0, -15.5)
+[02Sep2025 03:51:44.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm joined the game
+[02Sep2025 03:51:44.182] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 03:51:44.243] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f06ed14-4bad-30d1-9140-d34f1d21cef5
+[02Sep2025 03:51:44.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Inhospitable]
+[02Sep2025 03:52:20.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement ['X' Marks the Spot]
+[02Sep2025 03:52:21.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported canchitacumm to Sicxtino]
+[02Sep2025 03:53:37.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 was slain by The Moonflower
+[02Sep2025 03:53:42.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 03:53:42.234] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 03:53:46.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported Noto64 to Sicxtino]
+[02Sep2025 03:54:38.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ad5500
+[02Sep2025 03:54:38.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:40673] logged in with entity id 65987 at (359.3395813974784, 102.0, -263.8216237418496)
+[02Sep2025 03:54:38.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan joined the game
+[02Sep2025 03:54:38.144] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 03:54:38.193] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 54af8cb0-fc6f-36d0-b2b3-4ab433f2b648
+[02Sep2025 03:54:42.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported LittleHappyMan to Sicxtino]
+[02Sep2025 03:54:54.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Made LittleHappyMan a server operator]
+[02Sep2025 03:56:10.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 was slain by The Moonflower
+[02Sep2025 03:56:11.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 03:56:11.999] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 03:56:33.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Crops of the Wild]
+[02Sep2025 03:56:48.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Crops of the Wild]
+[02Sep2025 03:57:13.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement ['X' Marks the Spot]
+[02Sep2025 03:58:12.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c1446e9
+[02Sep2025 03:58:23.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported Noto64 to Sicxtino]
+[02Sep2025 03:59:00.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LittleHappyMan lost connection: Disconnected
+[02Sep2025 03:59:00.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan left the game
+[02Sep2025 03:59:00.375] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 54af8cb0-fc6f-36d0-b2b3-4ab433f2b648
+[02Sep2025 03:59:53.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Monster Hunter]
+[02Sep2025 04:00:04.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino has made the advancement ['X' Marks the Spot]
+[02Sep2025 04:00:06.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Acquire Hardware]
+[02Sep2025 04:00:08.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement ['X' Marks the Spot]
+[02Sep2025 04:00:08.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Acquire Hardware]
+[02Sep2025 04:00:45.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Diamonds!]

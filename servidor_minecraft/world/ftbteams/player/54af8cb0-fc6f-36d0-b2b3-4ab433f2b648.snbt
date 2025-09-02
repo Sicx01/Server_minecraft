@@ -1,0 +1,17 @@
+{
+	id: "54af8cb0-fc6f-36d0-b2b3-4ab433f2b648"
+	type: "player"
+	player_name: "LittleHappyMan"
+	ranks: {
+		54af8cb0-fc6f-36d0-b2b3-4ab433f2b648: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LittleHappyMan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
