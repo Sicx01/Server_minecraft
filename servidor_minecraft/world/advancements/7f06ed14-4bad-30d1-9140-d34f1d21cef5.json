@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-09-02 04:16:01 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-09-02 03:51:44 +0000"
@@ -365,6 +371,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-09-02 04:18:43 +0000"
+    },
+    "done": false
+  },
   "crossbowverhaul:recipes/combat/bolt_gold": {
     "criteria": {
       "has_ingot": "2025-09-02 04:00:09 +0000"
@@ -407,6 +419,12 @@
     },
     "done": true
   },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-09-02 04:11:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-09-02 03:51:44 +0000"
@@ -422,6 +440,12 @@
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-02 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-02 04:16:01 +0000"
     },
     "done": true
   },
@@ -470,6 +494,18 @@
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-02 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-09-02 04:16:01 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-09-02 04:15:15 +0000"
     },
     "done": true
   },

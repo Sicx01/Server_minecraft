@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2025-09-02 04:11:29 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-02 03:36:32 +0000"
@@ -407,6 +413,12 @@
     },
     "done": true
   },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-09-02 04:11:02 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-09-02 03:36:32 +0000"
@@ -475,6 +487,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-09-02 04:14:46 +0000",
       "minecraft:zombie": "2025-09-02 03:59:53 +0000"
     },
     "done": false
@@ -542,6 +555,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-09-02 03:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-02 04:11:29 +0000"
     },
     "done": true
   },

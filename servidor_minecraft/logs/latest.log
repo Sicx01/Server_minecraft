@@ -1265,3 +1265,56 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Sep2025 04:11:02.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [First Day]
 [02Sep2025 04:11:02.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [First Day]
 [02Sep2025 04:11:29.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Diamonds!]
+[02Sep2025 04:12:31.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino has made the advancement [Amateur Archaeologist]
+[02Sep2025 04:16:01.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Monster Hunter]
+[02Sep2025 04:16:09.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sicxtino lost connection: You logged in from another location
+[02Sep2025 04:16:09.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino left the game
+[02Sep2025 04:16:09.732] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b202b854-eef7-3a5c-8add-c7111e30f7a1
+[02Sep2025 04:16:09.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sicxtino[/127.41.185.52:35021] logged in with entity id 133734 at (331.89828785306617, 88.5, -234.5128385059731)
+[02Sep2025 04:16:09.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino joined the game
+[02Sep2025 04:16:09.754] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:16:09.799] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b202b854-eef7-3a5c-8add-c7111e30f7a1
+[02Sep2025 04:16:55.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Diamonds!]
+[02Sep2025 04:16:55.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Acquire Hardware]
+[02Sep2025 04:17:17.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan fell from a high place
+[02Sep2025 04:17:18.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:17:18.627] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:19:00.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 was slain by Zombie Dolphin
+[02Sep2025 04:19:00.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm was slain by Zombie Turtle
+[02Sep2025 04:19:02.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:19:02.068] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:19:02.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:19:02.836] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:19:08.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[02Sep2025 04:19:12.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LittleHappyMan: Teleported canchitacumm to LittleHappyMan]
+[02Sep2025 04:19:15.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino was slain by Zombie Dolphin
+[02Sep2025 04:19:17.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bed478c
+[02Sep2025 04:19:17.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:19:17.443] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:19:17.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan was slain by Zombie Turtle
+[02Sep2025 04:19:17.725] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Sep2025 04:19:17.725] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[02Sep2025 04:19:17.726] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[02Sep2025 04:19:17.726] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[02Sep2025 04:19:17.726] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Sep2025 04:19:19.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:19:19.103] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:19:20.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm was slain by Zombie Turtle
+[02Sep2025 04:19:22.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:19:22.647] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:20:01.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[02Sep2025 04:20:23.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm was slain by Infected Police
+[02Sep2025 04:20:25.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:20:25.491] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:20:25.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported Sicxtino to LittleHappyMan]
+[02Sep2025 04:20:28.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan was slain by Husk
+[02Sep2025 04:20:30.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:20:30.124] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:20:35.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino was slain by Infected Police
+[02Sep2025 04:20:37.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:20:37.249] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:21:27.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Sep2025 04:21:46.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm was slain by Drowned
+[02Sep2025 04:21:47.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:21:47.549] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:21:47.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 was impaled by Drowned
