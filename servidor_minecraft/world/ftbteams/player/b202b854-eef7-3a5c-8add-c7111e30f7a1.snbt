@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Sicxtino"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFBE59"
+		"ftbteams:color": "#FF5963"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

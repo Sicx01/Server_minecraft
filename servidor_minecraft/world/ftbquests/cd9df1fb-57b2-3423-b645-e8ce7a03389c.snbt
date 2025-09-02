@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "cd9df1fb57b23423b645e8ce7a03389c"
+	name: "Noto64"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		2C6177EDC934F9DC: 1756784192644L
+		7CE16FEEA03DBE1F: 1756784192644L
+		047C5CB3ED9A8E47: 1756784192644L
+		4523079E2318BD94: 1756784192644L
+		2583DDB195B6CFEA: 1756784192644L
+		0000000000000001: 1756784192644L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
