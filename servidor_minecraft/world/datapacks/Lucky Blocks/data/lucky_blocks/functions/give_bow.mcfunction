@@ -1,1 +1,0 @@
-give @s bow{luckybow:1b,Unbreakable:1,display:{Name:'[{"text":"Lucky Bow","italic":false,"color":"yellow"}]',Lore:['[{"text":"Each Shot will suprise you :)","italic":false}]']},Enchantments:[{id:"infinity",lvl:1},{id:"power",lvl:3},{id:"punch",lvl:1}],HideFlags:4} 1

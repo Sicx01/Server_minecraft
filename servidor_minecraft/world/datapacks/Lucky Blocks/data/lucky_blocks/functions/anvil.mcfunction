@@ -1,1 +1,0 @@
-execute at @p run setblock ~ ~30 ~ anvil

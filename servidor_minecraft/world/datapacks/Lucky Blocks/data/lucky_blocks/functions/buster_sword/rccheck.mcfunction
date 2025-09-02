@@ -1,2 +1,0 @@
-execute store result score $isholdingbuster lb.temp run data get entity @s SelectedItem.tag.buster
-execute if score $isholdingbuster lb.temp matches 1 unless score @s lb.totalscore matches 0..2 run function lucky_blocks:buster_sword/makebig

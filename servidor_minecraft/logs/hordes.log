@@ -1,0 +1,125 @@
+Trying to load common config
+Trying to load client config
+Config files are up to date, skipping data/asset generation
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_75
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 1, min day 0 and max day 0
+loaded horde table hordes:mobs_30
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_105
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 1, min day 0 and max day 0
+loaded horde table hordes:mobs_45
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_135
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 5, min day 0 and max day 0
+Loaded entity mutationcraft:human_herder as entity.mutationcraft.human_herder with weight 5, min day 0 and max day 0
+Loaded entity mutationcraft:resenter as entity.mutationcraft.resenter with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_300
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_210
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_15
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_165
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+loaded horde table hordes:fallback
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_240
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 5, min day 0 and max day 0
+Loaded entity mutationcraft:human_herder as entity.mutationcraft.human_herder with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_270
+loaded horde script hordes:wave_0_loot_script
+loaded horde script hordes:wave_0_script
+loaded horde script hordes:wave_1_loot_script
+loaded horde script hordes:wave_1_script
+loaded horde script hordes:wave_2_loot_script
+loaded horde script hordes:wave_2_script
+loaded horde script hordes:wave_3_loot_script
+loaded horde script hordes:wave_3_script
+loaded horde script hordes:wave_4_loot_script
+loaded horde script hordes:wave_4_script
+loaded horde script hordes:wave_5_loot_script
+loaded horde script hordes:wave_5_script
+loaded horde script hordes:wave_6_loot_script
+loaded horde script hordes:wave_6_script
+loaded horde script hordes:wave_7_loot_script
+loaded horde script hordes:wave_7_script
+loaded horde script hordes:wave_8_loot_script
+loaded horde script hordes:wave_8_script
+loaded horde script hordes:wave_9_loot_script
+loaded horde script hordes:wave_9_script
+loaded horde script hordes:wave_10_loot_script
+loaded horde script hordes:wave_10_script
+loaded horde script hordes:wave_11_loot_script
+loaded horde script hordes:wave_11_script
+Loading conversion tables
+Loading conversion table hordes:infection_conversions
+Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager with chance of 0.3
+Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager with chance of 0.3
+Loaded conversion entity.minecraft.villager to entity.minecraft.zombie_villager with chance of 0.3
+Loaded conversion entity.minecraft.horse to entity.zombiemobs.zombie_horsee with chance of 0.3
+Loaded conversion entity.minecraft.cat to entity.zombiemobs.zombie_cat with chance of 0.3
+Loaded conversion entity.minecraft.chicken to entity.zombiemobs.zombie_chicken with chance of 0.3
+Loaded conversion entity.minecraft.cow to entity.zombiemobs.zombie_cow with chance of 0.3
+Loaded conversion entity.minecraft.dolphin to entity.zombiemobs.zombie_dolphin with chance of 0.3
+Loaded conversion entity.minecraft.donkey to entity.zombiemobs.zombie_donkey with chance of 0.3
+Loaded conversion entity.minecraft.fox to entity.zombiemobs.zombie_fox with chance of 0.3
+Loaded conversion entity.minecraft.goat to entity.zombiemobs.zombie_goat with chance of 0.3
+Loaded conversion entity.minecraft.llama to entity.zombiemobs.zombie_llama with chance of 0.3
+Loaded conversion entity.minecraft.mooshroom to entity.zombiemobs.zombie_mooshroom with chance of 0.3
+Loaded conversion entity.minecraft.ocelot to entity.zombiemobs.zombie_ocelot with chance of 0.3
+Loaded conversion entity.minecraft.panda to entity.zombiemobs.zombie_panda with chance of 0.3
+Loaded conversion entity.minecraft.pig to entity.zombiemobs.zombie_pig with chance of 0.3
+Loaded conversion entity.minecraft.sheep to entity.zombiemobs.zombie_sheep with chance of 0.3
+Loaded conversion entity.minecraft.turtle to entity.zombiemobs.zombie_turtle with chance of 0.3
+Loaded conversion entity.minecraft.squid to entity.zombiemobs.zombie_squid with chance of 0.3
+Loaded conversion entity.minecraft.wolf to entity.zombiemobs.zombie_wolf with chance of 0.3
+Loading immunity item list
+Loading immunity item list hordes:immunity_items
+Loaded immunity item minecraft:enchanted_golden_apple with duration 120
+Loaded immunity item minecraft:golden_apple with duration 120
+Loading wearables protection list
+Loading wearables protection list hordes:immune_wearables

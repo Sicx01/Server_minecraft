@@ -1,6 +1,0 @@
-[
-    {
-        "function": "minecraft:set_nbt",
-        "tag": "{CustomModelData:1001,buster:2b,AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:11,Slot:mainhand,Name:\"generic.attack_damage\",UUID:[I;-1231011,17165,174826,-34330]},{AttributeName:\"generic.attack_speed\",Amount:-3,Slot:mainhand,Name:\"generic.attack_speed\",UUID:[I;-1231011,17265,174826,-34530]}]}"
-    }
-]

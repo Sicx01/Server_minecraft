@@ -1,1 +1,0 @@
-give @s leather_boots{Unbreakable:1,Tags:["boots"],display:{color:16777021,Name:'[{"text":"Lucky Boots","italic":false,"color":"yellow"}]'},AttributeModifiers:[{AttributeName:"generic.armor",Amount:1,Slot:feet,Name:"generic.armor",UUID:[I;-123107,38228,9167,-76456]}],Enchantments:[{id:"protection",lvl:2}],HideFlags:68} 1
