@@ -380,6 +380,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-09-02 04:50:05 +0000",
+      "rocky_shrubland": "2025-09-02 04:52:09 +0000",
       "scrubland": "2025-09-02 04:24:56 +0000",
       "mediterranean_forest": "2025-09-02 04:25:15 +0000"
     },
@@ -602,6 +604,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-02 04:57:12 +0000"
     },
     "done": true
   },

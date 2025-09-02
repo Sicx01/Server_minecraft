@@ -18498,3 +18498,48 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Sep2025 04:51:20.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LittleHappyMan: Teleported canchitacumm to LittleHappyMan]
 [02Sep2025 04:51:22.611] [Worker-Main9/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -3]
 [02Sep2025 04:52:16.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Stone Age]
+[02Sep2025 04:52:51.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Stone Age]
+[02Sep2025 04:53:25.628] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Sep2025 04:53:25.628] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Sep2025 04:54:01.754] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[02Sep2025 04:54:06.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Getting an Upgrade]
+[02Sep2025 04:54:19.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3893ms or 77 ticks behind
+[02Sep2025 04:54:59.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[02Sep2025 04:55:00.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ac28167
+[02Sep2025 04:55:00.101] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[02Sep2025 04:55:04.960] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -3] Saved.
+[02Sep2025 04:55:04.960] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[02Sep2025 04:55:04.961] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[02Sep2025 04:55:04.962] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -3] Saved.
+[02Sep2025 04:55:04.962] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Sep2025 04:55:04.962] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[02Sep2025 04:55:04.964] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[02Sep2025 04:55:04.964] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[02Sep2025 04:55:04.964] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[02Sep2025 04:55:04.976] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[02Sep2025 04:55:04.976] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[02Sep2025 04:55:04.978] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[02Sep2025 04:55:04.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 04:55:05.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 04:56:27.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LittleHappyMan: Teleported LittleHappyMan to canchitacumm]
+[02Sep2025 04:56:27.960] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[02Sep2025 04:56:38.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan died
+[02Sep2025 04:56:38.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LittleHappyMan: Killed LittleHappyMan]
+[02Sep2025 04:56:39.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 04:56:39.851] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:56:42.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LittleHappyMan: Teleported LittleHappyMan to canchitacumm]
+[02Sep2025 04:56:45.728] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Sep2025 04:57:12.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Acquire Hardware]
+[02Sep2025 04:58:22.791] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[02Sep2025 04:59:30.812] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[02Sep2025 05:00:04.798] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[02Sep2025 05:00:04.799] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[02Sep2025 05:00:04.799] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[02Sep2025 05:00:04.808] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[02Sep2025 05:00:04.808] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[02Sep2025 05:00:04.809] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[02Sep2025 05:00:04.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Sep2025 05:00:04.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Sep2025 05:00:05.778] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Sep2025 05:01:24.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Getting an Upgrade]
+[02Sep2025 05:01:59.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Isn't It Iron Pick]
