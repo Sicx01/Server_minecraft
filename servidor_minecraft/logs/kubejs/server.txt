@@ -1,183 +1,183 @@
-[03:32:02] [INFO ] Loaded block_break.js
-[03:32:02] [INFO ] Loaded script server_scripts:block_break.js in 0.018 s
-[03:32:02] [INFO ] Loaded health_check.js
-[03:32:02] [INFO ] Loaded script server_scripts:health_check.js in 0.0 s
-[03:32:02] [INFO ] Loaded spawn_check.js
-[03:32:02] [INFO ] Loaded script server_scripts:spawn_check.js in 0.006 s
-[03:32:02] [INFO ] Loaded script server_scripts:spawn_commands.js in 0.004 s
-[03:32:02] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[03:32:02] [INFO ] Loaded script server_scripts:script.js in 0.002 s
-[03:32:02] [INFO ] Loaded inventory_check.js
-[03:32:02] [INFO ] Loaded script server_scripts:inventory_check.js in 0.002 s
-[03:32:02] [INFO ] Loaded gasmask_check.js
-[03:32:02] [INFO ] Loaded script server_scripts:gasmask_check.js in 0.003 s
-[03:32:02] [INFO ] Loaded 7/7 KubeJS server scripts in 0.053 s
-[03:32:02] [INFO ] Scripts loaded
-[03:32:02] [INFO ] Scanning recipes...
-[03:32:08] [WARN ] Failed to parse recipe 'tac:elcan_14x[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:elcan_14x[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_jacaranda[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:jacaranda_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_jacaranda[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:jacaranda_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_witch_hazel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:witch_hazel_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_witch_hazel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:witch_hazel_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:large_extended_mag[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:large_extended_mag[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:maple_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:maple_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_sythian[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:sythian_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_sythian[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:sythian_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:old_4x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:old_4x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_embur[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:embur_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_embur[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:embur_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:rpg7_missile[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:rpg7_missile[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_zelkova[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:zelkova_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_zelkova[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:zelkova_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_redwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:redwood_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_redwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:redwood_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_white_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_white_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:acog_4x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:acog_4x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_pine[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:pine_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_pine[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:pine_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_aspen[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:aspen_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_aspen[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:aspen_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:bullet_308[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:bullet_308[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:nato_556_bullet[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:nato_556_bullet[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cherry_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cherry_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:old_8x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:old_8x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:basic_laser[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:basic_laser[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:tactical_stock[tac:workbench]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'conttenttweaker:rubber'
-[03:32:08] [WARN ] Failed to parse recipe tac:tactical_stock[tac:workbench]: com.google.gson.JsonSyntaxException: Unknown item 'conttenttweaker:rubber'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_palm[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:palm_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_palm[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:palm_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:srs_red_dot[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:srs_red_dot[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:ir_device[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:ir_device[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_mahogany[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mahogany_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_mahogany[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mahogany_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:9mm_round[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:9mm_round[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:10_gauge_round[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:10_gauge_round[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_rainbow_eucalyptus[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:rainbow_eucalyptus_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_rainbow_eucalyptus[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:rainbow_eucalyptus_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ebony[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ebony_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_ebony[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ebony_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:8x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:8x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:ae50[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:ae50[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:46x30[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:46x30[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:lpvo_1_6[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:lpvo_1_6[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:58x42[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:58x42[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cypress[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cypress_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cypress[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cypress_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_lament[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:lament_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_lament[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:lament_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_blue_enchanted[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:blue_enchanted_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_blue_enchanted[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:blue_enchanted_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'apocalypsenow:bulletbelt[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:mcu2p_gasmask_chestplate'
-[03:32:08] [WARN ] Failed to parse recipe apocalypsenow:bulletbelt[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:mcu2p_gasmask_chestplate'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_imparius[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:imparius_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_imparius[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:imparius_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:lapua338[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:lapua338[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ether[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ether_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_ether[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ether_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:762x39[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:762x39[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:762x25[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:762x25[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:bullet68[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:bullet68[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_skyris[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:skyris_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_skyris[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:skyris_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:762x54[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:762x54[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_baobab[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:baobab_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_baobab[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:baobab_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:57x28[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:57x28[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:win_30-30[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:win_30-30[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_bulbis[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:bulbis_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_bulbis[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:bulbis_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_willow[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:willow_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_willow[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:willow_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:50bmg[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:50bmg[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_holly[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:holly_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_holly[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:holly_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cika[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cika_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cika[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cika_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_fir[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:fir_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_fir[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:fir_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:magnum[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:magnum[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'tac:round45[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:round45[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_green_enchanted[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:green_enchanted_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_green_enchanted[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:green_enchanted_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:qmk152[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:qmk152[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_nightshade[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:nightshade_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_nightshade[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:nightshade_slab'
-[03:32:08] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[03:32:08] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
-[03:32:08] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
-[03:32:08] [INFO ] Found 15197 recipes and 0 failed recipes in 653.4 ms
-[03:32:08] [INFO ] Posted recipe events in 673.6 μs
-[03:32:09] [INFO ] Modified & removed recipes in 446.3 ms
-[03:32:09] [INFO ] Added recipes in 424.1 μs
-[03:32:09] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[04:23:08] [INFO ] Loaded block_break.js
+[04:23:08] [INFO ] Loaded script server_scripts:block_break.js in 0.007 s
+[04:23:08] [INFO ] Loaded health_check.js
+[04:23:08] [INFO ] Loaded script server_scripts:health_check.js in 0.001 s
+[04:23:08] [INFO ] Loaded spawn_check.js
+[04:23:08] [INFO ] Loaded script server_scripts:spawn_check.js in 0.001 s
+[04:23:08] [INFO ] Loaded script server_scripts:spawn_commands.js in 0.003 s
+[04:23:08] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[04:23:08] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[04:23:08] [INFO ] Loaded inventory_check.js
+[04:23:08] [INFO ] Loaded script server_scripts:inventory_check.js in 0.001 s
+[04:23:08] [INFO ] Loaded gasmask_check.js
+[04:23:08] [INFO ] Loaded script server_scripts:gasmask_check.js in 0.002 s
+[04:23:08] [INFO ] Loaded 7/7 KubeJS server scripts in 0.028 s
+[04:23:08] [INFO ] Scripts loaded
+[04:23:08] [INFO ] Scanning recipes...
+[04:23:15] [WARN ] Failed to parse recipe 'tac:elcan_14x[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:elcan_14x[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_starlit[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:starlit_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_jacaranda[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:jacaranda_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_jacaranda[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:jacaranda_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_witch_hazel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:witch_hazel_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_witch_hazel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:witch_hazel_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:large_extended_mag[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:large_extended_mag[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:maple_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:maple_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_sythian[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:sythian_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_sythian[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:sythian_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:old_4x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:old_4x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_embur[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:embur_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_embur[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:embur_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:rpg7_missile[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:rpg7_missile[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_zelkova[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:zelkova_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_zelkova[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:zelkova_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_redwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:redwood_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_redwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:redwood_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_white_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_slab'
+[04:23:15] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_white_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mangrove_slab'
+[04:23:15] [WARN ] Failed to parse recipe 'tac:acog_4x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:15] [WARN ] Failed to parse recipe tac:acog_4x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_pine[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:pine_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_pine[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:pine_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_darkwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:dark_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_aspen[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:aspen_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_aspen[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:aspen_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:bullet_308[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:bullet_308[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:nato_556_bullet[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:nato_556_bullet[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cherry_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cherry_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_sortingwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:sorting_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_maple[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:maple_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:old_8x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:old_8x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:basic_laser[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:basic_laser[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:tactical_stock[tac:workbench]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'conttenttweaker:rubber'
+[04:23:16] [WARN ] Failed to parse recipe tac:tactical_stock[tac:workbench]: com.google.gson.JsonSyntaxException: Unknown item 'conttenttweaker:rubber'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_palm[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:palm_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_palm[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:palm_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_cherry[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:cherry_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:srs_red_dot[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:srs_red_dot[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_hexcasting_edified[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'hexcasting:akashic_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:ir_device[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:ir_device[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_mahogany[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:mahogany_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_mahogany[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:mahogany_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_frostbright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:frostbright_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:9mm_round[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:9mm_round[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:10_gauge_round[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:10_gauge_round[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_timewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:time_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_rainbow_eucalyptus[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:rainbow_eucalyptus_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_rainbow_eucalyptus[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:rainbow_eucalyptus_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ebony[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ebony_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_ebony[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ebony_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_transwood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:8x_scope[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:8x_scope[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:ae50[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:ae50[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:46x30[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:46x30[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:lpvo_1_6[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:lpvo_1_6[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:58x42[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:58x42[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cypress[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cypress_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cypress[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cypress_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_lament[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:lament_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_lament[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:lament_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_blue_enchanted[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:blue_enchanted_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_blue_enchanted[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:blue_enchanted_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'apocalypsenow:bulletbelt[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:mcu2p_gasmask_chestplate'
+[04:23:16] [WARN ] Failed to parse recipe apocalypsenow:bulletbelt[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'apocalypsenow:mcu2p_gasmask_chestplate'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_imparius[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:imparius_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_imparius[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:imparius_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:lapua338[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:lapua338[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_twilight_oak[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:twilight_oak_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_ether[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:ether_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_ether[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:ether_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:762x39[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:762x39[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:762x25[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:762x25[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:bullet68[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:bullet68[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_skyris[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:skyris_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_skyris[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:skyris_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:762x54[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:762x54[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_baobab[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:baobab_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_baobab[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:baobab_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:57x28[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:57x28[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:win_30-30[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:win_30-30[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_lunar[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:lunar_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_bulbis[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:bulbis_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_bulbis[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:bulbis_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_willow[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:willow_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_willow[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:willow_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:50bmg[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:50bmg[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_holly[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:holly_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_holly[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:holly_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_cika[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:cika_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_cika[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:cika_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_fir[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:fir_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_fir[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:fir_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_canopy[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:canopy_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_minewood[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mining_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:magnum[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:magnum[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'tac:round45[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:round45[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_bluebright[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:bluebright_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_green_enchanted[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:green_enchanted_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_green_enchanted[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:green_enchanted_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:qmk152[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:qmk152[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_twilightforest_mangrove[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:mangrove_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_byg_nightshade[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'byg:nightshade_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_byg_nightshade[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'byg:nightshade_slab'
+[04:23:16] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:23:16] [WARN ] Failed to parse recipe 'railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[04:23:16] [WARN ] Failed to parse recipe railways:sequenced_assembly/track_blue_skies_dusk[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'blue_skies:dusk_slab'
+[04:23:16] [INFO ] Found 15197 recipes and 0 failed recipes in 941.8 ms
+[04:23:16] [INFO ] Posted recipe events in 1.516 ms
+[04:23:17] [INFO ] Modified & removed recipes in 440.2 ms
+[04:23:17] [INFO ] Added recipes in 629.8 μs
+[04:23:17] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
