@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "b202b854eef73a5c8addc7111e30f7a1"
+	name: "Sicxtino"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1756782301533L
+		4523079E2318BD94: 1756782301533L
+		2583DDB195B6CFEA: 1756782301533L
+		0000000000000001: 1756782301533L
+		2C6177EDC934F9DC: 1756782301536L
+		047C5CB3ED9A8E47: 1756782301536L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
