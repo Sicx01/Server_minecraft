@@ -1249,3 +1249,19 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Sep2025 04:00:08.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement ['X' Marks the Spot]
 [02Sep2025 04:00:08.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Acquire Hardware]
 [02Sep2025 04:00:45.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Diamonds!]
+[02Sep2025 04:02:04.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino has made the advancement [Immersive Engineering]
+[02Sep2025 04:02:08.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Immersive Engineering]
+[02Sep2025 04:03:02.666] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f9bab73
+[02Sep2025 04:03:02.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LittleHappyMan[/127.106.229.45:52707] logged in with entity id 93864 at (359.44951566992256, 102.0, -264.4788768835656)
+[02Sep2025 04:03:02.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan joined the game
+[02Sep2025 04:03:02.687] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 04:03:02.754] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 54af8cb0-fc6f-36d0-b2b3-4ab433f2b648
+[02Sep2025 04:05:56.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino has made the advancement [A Glorious Feast]
+[02Sep2025 04:06:19.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [A Glorious Feast]
+[02Sep2025 04:06:37.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [A Glorious Feast]
+[02Sep2025 04:10:04.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Monster Hunter]
+[02Sep2025 04:10:10.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino has made the advancement [Monster Hunter]
+[02Sep2025 04:11:02.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [First Day]
+[02Sep2025 04:11:02.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [First Day]
+[02Sep2025 04:11:02.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [First Day]
+[02Sep2025 04:11:29.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Diamonds!]
