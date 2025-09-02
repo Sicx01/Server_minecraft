@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-09-02 04:41:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
@@ -163,7 +169,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-09-02 04:37:08 +0000"
+      "bread": "2025-09-02 04:37:08 +0000",
+      "cookie": "2025-09-02 04:49:03 +0000"
     },
     "done": false
   },
@@ -378,6 +385,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-02 04:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-09-02 04:28:20 +0000",
@@ -464,6 +477,12 @@
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-09-02 04:41:04 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -565,6 +584,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-02 04:48:10 +0000"
     },
     "done": true
   },

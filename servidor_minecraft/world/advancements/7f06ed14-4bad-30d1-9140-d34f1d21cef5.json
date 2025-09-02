@@ -167,6 +167,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-09-02 04:46:37 +0000",
+      "cookie": "2025-09-02 04:45:49 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:55 +0000"
@@ -293,6 +300,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-09-02 04:48:56 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/waterskin": {
     "criteria": {
       "has_recipe": "2025-09-02 04:24:55 +0000"
@@ -368,7 +381,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-09-02 04:24:55 +0000",
-      "mediterranean_forest": "2025-09-02 04:25:27 +0000"
+      "mediterranean_forest": "2025-09-02 04:25:27 +0000",
+      "lavender_field": "2025-09-02 04:49:14 +0000"
     },
     "done": false
   },
