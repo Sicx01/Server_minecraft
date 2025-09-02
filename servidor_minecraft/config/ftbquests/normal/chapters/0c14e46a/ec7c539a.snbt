@@ -1,0 +1,21 @@
+{
+	title: "Gas",
+	icon: "ldoh:gas_mask",
+	x: -1.0d,
+	y: -2.5d,
+	text: [
+		"Gas is a transparent yellow mist that is found below y-30.",
+		"Non-parasite, non-undead mobs take damage in gas unless they are wearing a gas mask."
+	],
+	tasks: [{
+		uid: "1edcb921",
+		type: "checkmark",
+		title: "Gas"
+	}],
+	rewards: [{
+		uid: "6c4549fc",
+		type: "item",
+		item: "ldoh:clothing_fabric",
+		count: 6
+	}]
+}

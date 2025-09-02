@@ -1,0 +1,148 @@
+{
+	title: "Cosmetics",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "billhat",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "merasmushat",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "texashat",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "prisonheavy",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "teamcaptain",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "monoculus",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "hoodiehat",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "planeswalkergoggles",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "ghostlygibus",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "bonkboy",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "pyrogoggles",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "head_prize",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "allfather",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "phobosfilter",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "cadetvisor",
+				Attributes: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "rafradek_tf2_weapons:cosmetic",
+			tag: {
+				Type: "billycock",
+				Attributes: {}
+			}
+		}
+	}]
+}

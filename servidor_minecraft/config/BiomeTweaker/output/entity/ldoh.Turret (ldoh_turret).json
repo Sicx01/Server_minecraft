@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.Turret",
+  "Registry ID": "ldoh:turret",
+  "Class": "net.smileycorp.ldoh.common.entity.EntityTurret"
+}

@@ -1,0 +1,19 @@
+{
+	title: "Encumberment",
+	icon: "minecraft:anvil 1 2",
+	x: -1.0d,
+	y: -4.0d,
+	text: [
+		"Every item has a weight value, if your total weight exceeds certain values you will become encumbered and slowed down.",
+		"You can however use a backpack and crates to lessen the impact of encumberment."
+	],
+	tasks: [{
+		uid: "cb069c99",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "60dd6209",
+		type: "item",
+		item: "cfm:crate"
+	}]
+}

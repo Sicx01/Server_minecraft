@@ -1,0 +1,40 @@
+{
+	title: "The Spice of Life",
+	icon: "minecraft:apple",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"The Spice of Life adds a food diversity system, making food recover less hunger the more it is used consecutively.",
+		"Eating other food will slowly restore a food's default hunger values."
+	],
+	tasks: [{
+		uid: "a2c4cc32",
+		type: "checkmark",
+		title: "The Spice of Life"
+	}],
+	rewards: [{
+		uid: "2b66d42a",
+		type: "item",
+		item: "minecraft:beetroot_soup"
+	},
+	{
+		uid: "31c22046",
+		type: "item",
+		item: "minecraft:mushroom_stew"
+	},
+	{
+		uid: "284394f8",
+		type: "item",
+		item: "minecraft:rabbit_stew"
+	},
+	{
+		uid: "2c755bbf",
+		type: "item",
+		item: "minecraft:golden_carrot"
+	},
+	{
+		uid: "4f716198",
+		type: "item",
+		item: "minecraft:cookie"
+	}]
+}

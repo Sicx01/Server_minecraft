@@ -1,0 +1,20 @@
+{
+	title: "City",
+	icon: "minecraft:stone_slab",
+	x: -2.5d,
+	y: 1.5d,
+	text: [
+		"Cities are entire biomes filled with structures, cities have a large quantity of above average loot all throughout them.",
+		"However cities are crowded with zombies, with a higher rate of firemen and nurses than other biomes.",
+		"In buildings at night, or underground beware of Unburied spawning, as the low light conditions are perfect for them."
+	],
+	dependencies: [
+		"b213f387"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f1b76fef",
+		type: "checkmark",
+		title: "City"
+	}]
+}

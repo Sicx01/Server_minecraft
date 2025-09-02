@@ -1,0 +1,20 @@
+{
+	title: "Realistic Torches",
+	icon: "realistictorches:torch_unlit",
+	x: -0.5d,
+	y: -1.5d,
+	text: [
+		"Realistic torches makes crafting torches require an extra step, requiring them to be lit using a flint and steel or matchbook before giving off light."
+	],
+	tasks: [{
+		uid: "dc81a568",
+		type: "checkmark",
+		title: "Realistic Torches"
+	}],
+	rewards: [{
+		uid: "e157a7cc",
+		type: "item",
+		item: "realistictorches:torch_lit",
+		count: 8
+	}]
+}

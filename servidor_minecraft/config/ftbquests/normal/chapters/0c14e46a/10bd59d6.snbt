@@ -1,0 +1,28 @@
+{
+	title: "Trading",
+	x: 2.5d,
+	y: -0.5d,
+	text: [
+		"Some allied or neutral mercenaries can be traded with, using scrap as a currency,",
+		"From here you can buy and sell weapons and cosmetics for scrap, which will be a useful resource."
+	],
+	dependencies: [
+		"db387245"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0abb4371",
+		type: "item",
+		items: [{
+			item: "rafradek_tf2_weapons:itemtf2 1 3"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "37f9eef7",
+		type: "random",
+		title: "Random Hat",
+		icon: "rafradek_tf2_weapons:itemtf2 1 10",
+		table: 0
+	}]
+}

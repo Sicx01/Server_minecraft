@@ -1,0 +1,29 @@
+{
+	title: "PDA",
+	x: 2.0d,
+	y: -5.5d,
+	text: [
+		"PDAs can be used to create dispensers teleporters and sentries using metal.",
+		"Metal can be refilled with dispensers, or manually replaced with iron ingots."
+	],
+	tasks: [{
+		uid: "4c016e5d",
+		type: "item",
+		items: [{
+			id: "rafradek_tf2_weapons:pda",
+			tag: {
+				Type: "pda",
+				Attributes: {}
+			}
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "0c97906d",
+		type: "item",
+		item: "minecraft:iron_ingot"
+	}]
+}

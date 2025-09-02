@@ -1,0 +1,20 @@
+{
+	title: "Canyon",
+	icon: "minecraft:gravel",
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"Canyons contain lots of deposits of various useful materials, such as clay and soul sand.",
+		"You can often see exposed caves with lava, ores and gas exposed to the air.",
+		"They also contain a few structures, although these structures are usually spread out and slightly above average in loot."
+	],
+	dependencies: [
+		"b213f387"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bceccf3e",
+		type: "checkmark",
+		title: "Canyon"
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Mercenary Raids",
+	icon: {
+		id: "rafradek_tf2_weapons:bullet",
+		tag: {
+			Type: "shotgun",
+			Attributes: {},
+			Clip: 6
+		}
+	},
+	x: 0.5d,
+	y: -1.0d,
+	text: [
+		"On certain days, if you are allied to a team, friendly or enemy mercenaries may show up at your base, looking for shelter or a fight.",
+		"Every 100 days after the first, a large enemy army will attempt to raid you, hopefully you can be ready for them."
+	],
+	dependencies: [
+		"ff48d07d",
+		"97f3b320"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1d39df35",
+		type: "checkmark",
+		title: "Mercenary Raids"
+	}],
+	rewards: [{
+		uid: "6a476560",
+		type: "item",
+		item: "rafradek_tf2_weapons:ammo_box 1 1"
+	}]
+}

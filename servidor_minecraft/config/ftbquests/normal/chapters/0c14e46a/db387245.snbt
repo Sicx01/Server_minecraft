@@ -1,0 +1,26 @@
+{
+	title: "Inventories",
+	icon: "minecraft:bread",
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"Mercenaries have hunger, which will deplete over time, and will eat any food they have stored to restore it.",
+		"You can give mercenaries new ammo, food or weapons by dropping it on the ground and having them pick it up.",
+		"In the mercenaries inventory, you can click the button next to their weapons to force them to use that weapon."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e3e8c8da",
+		type: "checkmark",
+		title: "Inventories"
+	}],
+	rewards: [{
+		uid: "bf8227a3",
+		type: "item",
+		item: "minecraft:bread",
+		count: 8
+	}]
+}

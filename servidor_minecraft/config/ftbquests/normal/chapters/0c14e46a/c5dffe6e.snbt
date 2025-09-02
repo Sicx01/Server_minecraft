@@ -1,0 +1,28 @@
+{
+	title: "Infection",
+	icon: "ldoh:syringe 1 2",
+	x: 3.0d,
+	y: -2.5d,
+	text: [
+		"When mercenaries are attacked by a zombie mob they become infected and are surrounded by red potion effects.",
+		"After 20 minutes (one full minecraft day) or when the mercenary dies, it will be turned into a zombie.",
+		"You can cure a mercenaries infection by using Enriched Antibody Serum on it, or throwing the serum to a medic, with a medigun, who will then use it on the other merc.",
+		"Zombie mercenaries have a small chance to drop their equipment and have a chance to naturally replace a regular zombie that spawns in."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "193ebf6a",
+		type: "checkmark",
+		title: "Infection",
+		icon: "ldoh:syringe 1 2",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "8314d5f7",
+		type: "item",
+		item: "ldoh:syringe 1 2"
+	}]
+}

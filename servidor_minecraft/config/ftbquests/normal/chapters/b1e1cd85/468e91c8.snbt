@@ -1,0 +1,26 @@
+{
+	title: "Animania",
+	icon: "animania:jersey_cheese_wheel",
+	x: -0.5d,
+	y: 1.5d,
+	text: [
+		"Animania is a mod that overhauls animal behaviour and adds various breeds to each animal type.",
+		"Animania includes more realistic breeding, feeding and growth stages.",
+		"WARNING: animania animals are sometimes agressive."
+	],
+	tasks: [{
+		uid: "21a00c8a",
+		type: "checkmark",
+		title: "Animania"
+	}],
+	rewards: [{
+		uid: "6f403fe9",
+		type: "item",
+		item: "animania:animania_manual"
+	},
+	{
+		uid: "acb8d731",
+		type: "item",
+		item: "animania:jersey_cheese_wheel"
+	}]
+}

@@ -6,11 +6,11 @@
   },
   "handlers": {
     "explosion": {
-      "enabled": true,
-      "opacity": 1.0,
+      "enabled": false,
+      "opacity": 0.4,
       "dust": {
         "disabled": false,
-        "opacity": 1.0,
+        "opacity": 0.4,
         "animationSpeed": 0,
         "scale": {
           "min": 0.2,
@@ -18,8 +18,8 @@
         }
       },
       "dustDuration": {
-        "min": 500,
-        "max": 1000
+        "min": 100,
+        "max": 200
       },
       "dustAmount": {
         "min": 0,
@@ -27,12 +27,12 @@
         "max": 20,
         "maxValue": 30
       },
-      "maxExplosionVolume": 0.5,
+      "maxExplosionVolume": 0.2,
       "explosionSoundTime": {
         "min": 0,
-        "minValue": 50,
+        "minValue": 20,
         "max": 20,
-        "maxValue": 200
+        "maxValue": 100
       },
       "blur": {
         "disabled": false,
@@ -99,7 +99,7 @@
       }
     },
     "damage": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "damaged": {
         "disabled": false,
@@ -332,15 +332,13 @@
       }
     },
     "heartbeat": {
-      "enabled": true,
+      "enabled": false,
       "opacity": 1.0,
       "useHealthPercentage": false,
       "maxHealth": 6,
       "maxHealthPercentage": 0.3,
-      "heartbeatOverlayIntensity": 0.5,
-      "heartbeatOverlayDuration": 20,
-      "heartbeatBlurIntensity": 50.0,
-      "heartbeatBlurDuration": 5,
+      "heartbeatIntensity": 50.0,
+      "heartbeatDuration": 5,
       "minHeartbeatLength": 15,
       "heartbeatTimeFactor": 100.0,
       "heartbeatVolume": 1.0,

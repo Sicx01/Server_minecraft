@@ -1,0 +1,26 @@
+{
+	title: "Carry On",
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"Carry on is a mod that lets you pick up small entites and storage blocks such as chests and furnaces, by croughting and right clicking on them.",
+		"This can be useful for transporting chests or livestock."
+	],
+	tasks: [{
+		uid: "fa99fb75",
+		type: "checkmark",
+		title: "Carry On",
+		icon: "minecraft:chest"
+	}],
+	rewards: [{
+		uid: "475c44e2",
+		type: "item",
+		item: "minecraft:chest",
+		count: 3
+	},
+	{
+		uid: "73147495",
+		type: "item",
+		item: "minecraft:furnace"
+	}]
+}

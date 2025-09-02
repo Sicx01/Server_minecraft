@@ -1,0 +1,21 @@
+{
+	title: "Sleeping Overhaul",
+	icon: "minecraft:bed 1 14",
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"Sleeping overhaul changes the way sleeping works, now instead of the night immediately being skipped, the game enters timelapse mode, ",
+		"in which the game speeds up, with entities and blocks moving much quicker.",
+		"WARNING: on servers this can be very deadly to players not sleeping."
+	],
+	tasks: [{
+		uid: "37f7f6d3",
+		type: "checkmark",
+		title: "Sleeping Overhaul"
+	}],
+	rewards: [{
+		uid: "043119e3",
+		type: "item",
+		item: "minecraft:clock"
+	}]
+}

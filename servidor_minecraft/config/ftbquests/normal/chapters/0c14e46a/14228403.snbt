@@ -1,0 +1,27 @@
+{
+	title: "Day 100",
+	icon: "srparasites:itemmobspawner_oronco",
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"Day 100 will bring your hardest challenge yet, as the night begins to darken and an ominous smell fills the air, it rises from the depths of your world with",
+		"it's army of parasites, with one goal, to make you into it's servant and bring this world to an end.",
+		"You must kill this abomination to proceed, should you fail, the world will be plunged into eternal night."
+	],
+	dependencies: [
+		"b9103b22",
+		"97f3b320"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3816486b",
+		type: "checkmark",
+		title: "Day 100"
+	}],
+	rewards: [{
+		uid: "39d63ff4",
+		type: "item",
+		item: "minecraft:glowstone_dust",
+		count: 6
+	}]
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.TFZombie",
+  "Registry ID": "ldoh:tf_zombie",
+  "Class": "net.smileycorp.ldoh.common.entity.zombie.EntityTF2Zombie"
+}

@@ -1,0 +1,21 @@
+{
+	title: "Desert Wastland",
+	icon: "minecraft:sand",
+	x: -3.5d,
+	y: -1.5d,
+	text: [
+		"Desert Wastelands are harsh and difficult to navigate, with few structure.",
+		"Other than the odd cactus they're very empty and filled with husks, who replace normal zombies here.",
+		"Despite seeming empty desert wastelands are more likely to contain oil or lava than other biomes ",
+		"and have the benefit of being the only biome to spawn ores above y 30."
+	],
+	dependencies: [
+		"b213f387"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d372eb7e",
+		type: "checkmark",
+		title: "Desert Wasteland"
+	}]
+}

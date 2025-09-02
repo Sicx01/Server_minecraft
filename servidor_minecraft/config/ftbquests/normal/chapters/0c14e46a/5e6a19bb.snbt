@@ -1,0 +1,26 @@
+{
+	title: "Robots",
+	icon: "rafradek_tf2_weapons:robot_deploy 1 4",
+	x: 3.5d,
+	y: -3.5d,
+	text: [
+		"Robots are mechanized mercenaries that can be built using robot parts, credits and TF2 weapons in a robot builder.",
+		"They have a few major benefits over regular mercenaries as they do not need to eat, and are immune to both infection and gas.",
+		"Robot parts and  the robot builder can be found in the rare factory structure in the Badlands."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "29510053",
+		type: "checkmark",
+		title: "Robots"
+	}],
+	rewards: [{
+		uid: "55d741fd",
+		type: "item",
+		icon: "rafradek_tf2_weapons:money",
+		item: "rafradek_tf2_weapons:money"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "Badlands",
+	icon: "biomesoplenty:dried_sand",
+	x: 0.5d,
+	y: 1.5d,
+	text: [
+		"The Badlands contains the rarest and most useful structures, as well as being filled with toxic pools and very dangerous mobs."
+	],
+	dependencies: [
+		"b213f387"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8af38781",
+		type: "checkmark",
+		title: "Badlands"
+	}]
+}

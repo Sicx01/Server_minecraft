@@ -1,0 +1,23 @@
+{
+	title: "Progressive Difficulty",
+	icon: "minecraft:clock",
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"This modpack includes a progressive difficulty system, with mobs getting faster and more powerful the longer an area is loaded.",
+		"In addition zombies gain the ability to break blocks starting on day 10 and build starting on day 20.",
+		"On servers progression is paused while no players are online, but will continue to progress in any players are."
+	],
+	hide: true,
+	tasks: [{
+		uid: "17d50168",
+		type: "checkmark",
+		title: "Progressive Difficulty"
+	}],
+	rewards: [{
+		uid: "a474fa16",
+		type: "item",
+		item: "cgm:basic_ammo",
+		count: 3
+	}]
+}

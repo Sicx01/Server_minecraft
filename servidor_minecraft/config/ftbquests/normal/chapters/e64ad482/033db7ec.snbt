@@ -1,0 +1,19 @@
+{
+	title: "Wasteland",
+	icon: "minecraft:dirt",
+	x: -1.0d,
+	y: -3.0d,
+	text: [
+		"The Wasteland is the most common biome you will find, being average in everything, and the most balanced structure spawns,",
+		"it has some extremely valuable rare structures, but these are few and far between."
+	],
+	dependencies: [
+		"b213f387"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a5445c06",
+		type: "checkmark",
+		title: "Wasteland"
+	}]
+}

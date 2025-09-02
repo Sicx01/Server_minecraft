@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.Reaver",
+  "Registry ID": "ldoh:reaver",
+  "Class": "net.smileycorp.ldoh.common.entity.zombie.EntityReaver"
+}

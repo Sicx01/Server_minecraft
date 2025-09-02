@@ -1,0 +1,31 @@
+{
+	title: "First Aid",
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		"First Aid changes how damage works, distributing damage to various body parts, seen in the top left of the screen, ",
+		"or by opening the first aid menu (Default H).",
+		"Damage taken on parts can cause debuffs, such as mining fatigue, slowness or blindness, these debuffs can be cleared with morphine.",
+		"If all health is lost from a single body part, you will get severe debuffs, or for the case of the body and head, die.",
+		"Health can be restored by using bandages and plasters, which can then be applied to various body parts.",
+		"Health can still be healed using other means, but is done at random."
+	],
+	tasks: [{
+		uid: "487d62c0",
+		type: "checkmark",
+		title: "First Aid",
+		icon: "firstaid:bandage"
+	}],
+	rewards: [{
+		uid: "40aefaf4",
+		type: "item",
+		item: "firstaid:bandage",
+		count: 3
+	},
+	{
+		uid: "9bda34a9",
+		type: "item",
+		item: "firstaid:plaster",
+		count: 3
+	}]
+}

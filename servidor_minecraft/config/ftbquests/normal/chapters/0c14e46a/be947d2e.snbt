@@ -1,0 +1,31 @@
+{
+	title: "Mercenary Following",
+	icon: {
+		id: "rafradek_tf2_weapons:medigun",
+		tag: {
+			Type: "medigun",
+			Attributes: {}
+		}
+	},
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"Once you have joined a team, you can make mercenaries follow you, by shift right clicking on them, or using the follow key (default V).",
+		"You can stop all mercenaries following you with the stop all key (default J).",
+		"When mercenaries are following you crouching enables defend mode, in which they will be made immobile and begin shooting at enemies until you uncrouch."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a61f7294",
+		type: "checkmark",
+		title: "Mercenary Following"
+	}],
+	rewards: [{
+		uid: "8ffa4aa5",
+		type: "item",
+		item: "rafradek_tf2_weapons:ammo_box 1 1"
+	}]
+}

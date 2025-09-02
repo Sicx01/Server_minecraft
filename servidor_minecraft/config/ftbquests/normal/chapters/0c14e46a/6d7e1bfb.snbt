@@ -1,0 +1,21 @@
+{
+	title: "Block Stability",
+	icon: "minecraft:fence",
+	x: 0.5d,
+	y: -5.5d,
+	text: [
+		"In this modpack, most blocks are subject to gravity, falling when they have no support. and are far away from supporting walls.",
+		"You can increase the stability of structures and caves using fences and logs.",
+		"Some blocks are exempt from this."
+	],
+	tasks: [{
+		uid: "19dcd1ea",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "27f22849",
+		type: "item",
+		item: "minecraft:log",
+		count: 4
+	}]
+}

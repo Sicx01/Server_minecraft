@@ -1,0 +1,18 @@
+{
+	title: "Contracts",
+	icon: "rafradek_tf2_weapons:itemtf2 1 2",
+	x: 3.5d,
+	y: -4.5d,
+	text: [
+		"Contracts can be aquired after trading with mercenaries, they offer various challenges in exchange for credits and australium.",
+		"They can be viewed and accessed from the contracts menu in the inventory or pause screen."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c205197a",
+		type: "checkmark"
+	}]
+}

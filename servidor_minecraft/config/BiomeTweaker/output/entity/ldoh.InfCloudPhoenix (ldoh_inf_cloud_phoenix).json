@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.InfCloudPhoenix",
+  "Registry ID": "ldoh:inf_cloud_phoenix",
+  "Class": "net.smileycorp.ldoh.common.entity.infphoenix.EntityInfPhoenixCloud"
+}

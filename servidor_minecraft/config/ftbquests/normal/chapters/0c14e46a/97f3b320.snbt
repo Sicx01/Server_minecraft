@@ -1,0 +1,26 @@
+{
+	title: "Horde Events",
+	icon: "minecraft:skull 1 2",
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"Horde Events occur every 10 days, except on day 100.",
+		"Hordes start at midnight and spawn 6 waves over the course of the night, in a random direction from the player.",
+		"Hordes are per player, but will spawn decreased amounts per nearby player with an also active horde."
+	],
+	dependencies: [
+		"97596576"
+	],
+	hide: true,
+	tasks: [{
+		uid: "df6a0f29",
+		type: "checkmark",
+		title: "Horde Events"
+	}],
+	rewards: [{
+		uid: "6a8d5af1",
+		type: "item",
+		item: "ldoh:clothing_fabric",
+		count: 6
+	}]
+}

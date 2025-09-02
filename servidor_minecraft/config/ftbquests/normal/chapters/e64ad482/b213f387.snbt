@@ -1,0 +1,26 @@
+{
+	title: "Nature's Compass",
+	x: -1.0d,
+	y: -0.5d,
+	text: [
+		"The nature's compass is a simple useful item, that directs you to the closest of a given biome.",
+		"Be warned though, you may need to travel quite far to get to it, or travel quite far to be able to target a new version of biome you've already found."
+	],
+	tasks: [{
+		uid: "4856b735",
+		type: "checkmark",
+		title: "Nature's Compass",
+		icon: {
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}
+	}],
+	rewards: [{
+		uid: "294b32a2",
+		type: "item",
+		item: {
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Parasites",
+	icon: "srparasites:itemtab",
+	x: -2.0d,
+	y: 0.5d,
+	text: [
+		"Parasites start spawning on day 50.",
+		"Parasites can grow and evolve increasing a global count, that when increased to certain levels causes them to be more agressive and stronger mobs to spawn.",
+		"Higher level parasites can adapt to damage, taking less damage from a damage source the more times it is used on it.",
+		"Parasites have a natural weakness to fire, exploiting this will be the key to dealing with higher level parasites."
+	],
+	dependencies: [
+		"97596576"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f28858fe",
+		type: "checkmark",
+		title: "Parasites"
+	}],
+	rewards: [{
+		uid: "1e1f06ac",
+		type: "item",
+		item: "srparasites:evclock"
+	}]
+}

@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "New Generator",
+  "items": [
+    {
+      "weight": 4.910394668579102,
+      "min": 3,
+      "max": 5,
+      "item": {
+        "id": "firstaid:plaster",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.910394668579102,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "firstaid:bandage",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.9194812774658203,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ldoh:syringe",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.9194812774658203,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "firstaid:morphine",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.9194812774658203,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:splash_potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 7,
+      "item": {
+        "id": "exoticbirds:phoenix_dust",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.9194812774658203,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rafradek_tf2_weapons:ammo_medigun",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "ldoh:bonesaw",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rafradek_tf2_weapons:itemtf2",
+        "damage": 9,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Token": {
+              "nbtType": "byte",
+              "nbt": 6
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rafradek_tf2_weapons:itemtf2",
+        "damage": 9,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Australium": {
+              "nbtType": "byte",
+              "nbt": 1
+            },
+            "Token": {
+              "nbtType": "byte",
+              "nbt": 6
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

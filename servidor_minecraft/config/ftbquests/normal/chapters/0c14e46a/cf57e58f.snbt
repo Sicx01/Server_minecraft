@@ -1,0 +1,29 @@
+{
+	title: "TF2 Crafting Table",
+	icon: "rafradek_tf2_weapons:tf2workbench",
+	x: 4.0d,
+	y: -0.5d,
+	text: [
+		"The TF2 crafting table is very important for any progression with TF2 weapons.",
+		"It can be used to craft all manner of TF2 weapons, ammo and upgrade them."
+	],
+	dependencies: [
+		"10bd59d6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5ba807bd",
+		type: "item",
+		items: [{
+			item: "rafradek_tf2_weapons:tf2workbench"
+		}],
+		consume_items: false,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "8e964630",
+		type: "item",
+		item: "rafradek_tf2_weapons:itemtf2 1 3",
+		count: 3
+	}]
+}

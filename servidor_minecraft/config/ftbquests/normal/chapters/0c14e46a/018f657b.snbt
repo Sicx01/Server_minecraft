@@ -1,0 +1,23 @@
+{
+	title: "Ammo Boxes",
+	icon: "rafradek_tf2_weapons:ammo_box 1 1",
+	x: 2.0d,
+	y: -4.5d,
+	text: [
+		"Ammo boxes are an item dropped by mercenaries, when picked up they give random ammo of any TF2 weapon in the player's inventory."
+	],
+	dependencies: [
+		"ff48d07d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f40805fc",
+		type: "checkmark",
+		title: "Ammo Boxes"
+	}],
+	rewards: [{
+		uid: "2cfbb1a6",
+		type: "item",
+		item: "rafradek_tf2_weapons:ammo_box 1 1"
+	}]
+}

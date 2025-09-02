@@ -1,8 +1,0 @@
-#Force game rules regardless of server setting for 'paused' rules.
-FORCE_GAME_RULES = true
-#doFireTick
-DO_FIRE_TICK = true
-#randomTickSpeed
-#Range: 0 ~ 20
-RANDOM_TICK_SPEED = 3
-

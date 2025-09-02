@@ -1,0 +1,25 @@
+{
+	title: "JEI",
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Just Enough Items or JEI is a mod that displays items and recipes.",
+		"You can see JEI any time you open an inventory.",
+		"Press U while hovering over an item to see it's use and R to see how to craft it.",
+		"Be sure to use this any time you're unsure of an item, for balance reasons a lot of modded items have changed recipes.",
+		"If an item doesn't have a crafting recipe, it can either be found through exploration, or it's recipe is locked behind progression.",
+		"Most unobtainable items have been removed from JEI, so if it's there you can probably obtain it somehow."
+	],
+	tasks: [{
+		uid: "14cb3753",
+		type: "checkmark",
+		title: "JEI",
+		icon: "jecalculation:item_calculator"
+	}],
+	rewards: [{
+		uid: "5d36743c",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	}]
+}

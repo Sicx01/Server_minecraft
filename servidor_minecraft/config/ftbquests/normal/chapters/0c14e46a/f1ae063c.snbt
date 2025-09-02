@@ -1,0 +1,20 @@
+{
+	title: "Progression Books",
+	icon: "gamestagebooks:gun_stage",
+	x: -1.0d,
+	y: -5.5d,
+	text: [
+		"Progression books are items, that are gained either from structures, or as mob loot, they unlock certain crafting recipes, when right clicked. "
+	],
+	tasks: [{
+		uid: "07f61e1d",
+		type: "checkmark",
+		title: "Progression Books"
+	}],
+	rewards: [{
+		uid: "6b6ac5b0",
+		type: "item",
+		item: "cgm:basic_ammo",
+		count: 3
+	}]
+}

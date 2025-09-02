@@ -1,0 +1,20 @@
+{
+	title: "Flashlight",
+	x: 3.5d,
+	y: -1.5d,
+	text: [
+		"Flashight is a mod that adds a functional flashlight, which can be very useful for seeing in the pitch black of this modpack. ",
+		"They need to be powered by right clicking, while holding a battery in your off hand."
+	],
+	tasks: [{
+		uid: "70f521fb",
+		type: "checkmark",
+		title: "Flashlight",
+		icon: "flashlight:flashlight"
+	}],
+	rewards: [{
+		uid: "e4d4b38a",
+		type: "item",
+		item: "flashlight:smallredstonebattery"
+	}]
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.CrawlingZombie",
+  "Registry ID": "ldoh:crawling_zombie",
+  "Class": "net.smileycorp.ldoh.common.entity.zombie.EntityCrawlingZombie"
+}

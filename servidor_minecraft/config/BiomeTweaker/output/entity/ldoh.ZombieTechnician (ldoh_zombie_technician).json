@@ -1,0 +1,6 @@
+
+{
+  "Name": "ldoh.ZombieTechnician",
+  "Registry ID": "ldoh:zombie_technician",
+  "Class": "net.smileycorp.ldoh.common.entity.zombie.EntityZombieTechnician"
+}

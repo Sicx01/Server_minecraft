@@ -1,0 +1,29 @@
+{
+	title: "Mercenaries",
+	icon: {
+		id: "rafradek_tf2_weapons:bullet",
+		tag: {
+			Type: "scattergun",
+			Attributes: {},
+			Clip: 6
+		}
+	},
+	x: 0.5d,
+	y: -2.5d,
+	text: [
+		"Mercenaries can be found in various structures belonging to two teams red and blu.",
+		"There are 8 types of mercenary (Demoman, Engineer, Heavy, Medic, Pyro, Scout, Sniper and Soldier)",
+		"Mercenaries are netural by default and will only be agressive to players on opposing teams, or if you attack them.",
+		"You can join a team by right clicking on a mercenary or killing a mercenary of the opposite team."
+	],
+	tasks: [{
+		uid: "7c9e0686",
+		type: "checkmark",
+		title: "Mercenaries"
+	}],
+	rewards: [{
+		uid: "7ec887ce",
+		type: "item",
+		item: "rafradek_tf2_weapons:ammo_box 1 1"
+	}]
+}

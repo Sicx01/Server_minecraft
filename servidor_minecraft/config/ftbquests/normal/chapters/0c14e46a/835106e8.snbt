@@ -1,0 +1,22 @@
+{
+	title: "Experience",
+	icon: "minecraft:experience_bottle",
+	x: 0.5d,
+	y: -4.0d,
+	text: [
+		"As you may notice, experience orbs do not exist in this modpack.",
+		"However experience can still be gained by drinking bottles of enchanting.",
+		"Your experience bar is hidden unless you are holding a bottle of enchanting, or looking at a block that uses experience."
+	],
+	tasks: [{
+		uid: "0c1a708a",
+		type: "checkmark",
+		title: "Experience"
+	}],
+	rewards: [{
+		uid: "9b530904",
+		type: "item",
+		item: "minecraft:experience_bottle",
+		count: 5
+	}]
+}
