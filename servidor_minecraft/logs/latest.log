@@ -1420,3 +1420,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02Sep2025 04:57:12.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Acquire Hardware]
 [02Sep2025 05:01:24.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: canchitacumm has made the advancement [Getting an Upgrade]
 [02Sep2025 05:01:59.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Isn't It Iron Pick]
+[02Sep2025 05:03:14.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Isn't It Iron Pick]
+[02Sep2025 05:08:53.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LittleHappyMan has made the advancement [Disme A Dozen]
+[02Sep2025 05:09:16.006] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73496e4d
+[02Sep2025 05:09:16.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sicxtino[/127.41.185.52:56457] logged in with entity id 170439 at (151.22805720167528, 65.0, -658.9331923608768)
+[02Sep2025 05:09:16.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sicxtino joined the game
+[02Sep2025 05:09:16.027] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 05:09:16.098] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b202b854-eef7-3a5c-8add-c7111e30f7a1
+[02Sep2025 05:09:28.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Sep2025 05:09:28.608] [Server thread/INFO] [tac/]: PENDING
+[02Sep2025 05:09:49.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Connecting]
+[02Sep2025 05:10:41.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Noto64 has made the advancement [Diamonds!]
+[02Sep2025 05:11:37.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sicxtino: Teleported Sicxtino to canchitacumm]
+[02Sep2025 05:11:49.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind

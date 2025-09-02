@@ -170,7 +170,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-09-02 04:37:08 +0000",
-      "cookie": "2025-09-02 04:49:03 +0000"
+      "cookie": "2025-09-02 04:49:03 +0000",
+      "cooked_chicken": "2025-09-02 05:01:33 +0000"
     },
     "done": false
   },
@@ -222,6 +223,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-02 05:01:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
@@ -249,6 +256,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-09-02 04:24:56 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-09-02 05:09:49 +0000"
     },
     "done": true
   },
