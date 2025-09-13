@@ -17,15 +17,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-09-13 23:57:13 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-09-13 23:48:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-09-13 23:57:13 +0000"
+    },
+    "done": true
+  },
   "cfm:root": {
     "criteria": {
       "tick": "2025-09-13 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-09-13 23:57:13 +0000"
     },
     "done": true
   },
