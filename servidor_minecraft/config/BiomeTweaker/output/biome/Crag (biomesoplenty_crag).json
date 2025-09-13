@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
-    "COLD",
     "DRY",
     "MAGICAL",
+    "HILLS",
     "MOUNTAIN",
+    "COLD",
     "WASTELAND"
   ],
   "BiomeManager Entries": {},
