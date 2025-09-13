@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
+    "HOT",
     "DENSE",
     "JUNGLE",
-    "HOT"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -31,12 +31,6 @@
       "Entity Class": "com.animania.addons.extra.common.entity.amphibians.EntityDartFrogs",
       "Weight": 18,
       "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "thedarkcolour.futuremc.entity.panda.EntityPanda",
-      "Weight": 14,
-      "Min Group Count": 1,
       "Max Group Count": 2
     },
     {

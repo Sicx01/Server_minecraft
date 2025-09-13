@@ -82,14 +82,7 @@
       "Max Group Count": 16
     }
   ],
-  "Spawnable Water Creatures": [
-    {
-      "Entity Class": "thedarkcolour.futuremc.entity.fish.salmon.EntitySalmon",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 5
-    }
-  ],
+  "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
   "Tweaked": true,

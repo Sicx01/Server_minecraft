@@ -1,6 +1,6 @@
 {
   "tcp_alloc": {
-    "allowed": 6,
+    "allowed": 4,
     "claimed": 1,
     "desired": 1
   },
@@ -22,7 +22,7 @@
           "region": "global",
           "static_ip4": "147.185.221.31",
           "static_ip6": "2602:fbaf:0:1::1f",
-          "tunnel_ip": "2602:fbaf:0:1::1f"
+          "tunnel_ip": "147.185.221.31"
         },
         "status": "allocated"
       },
@@ -54,7 +54,7 @@
     }
   ],
   "udp_alloc": {
-    "allowed": 6,
+    "allowed": 4,
     "claimed": 0,
     "desired": 0
   }
