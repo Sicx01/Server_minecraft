@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "JUNGLE",
-    "HILLS",
     "DENSE",
+    "JUNGLE",
     "HOT",
-    "WET"
+    "WET",
+    "HILLS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -32,6 +32,12 @@
       "Entity Class": "com.animania.addons.extra.common.entity.amphibians.EntityDartFrogs",
       "Weight": 18,
       "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "thedarkcolour.futuremc.entity.panda.EntityPanda",
+      "Weight": 14,
+      "Min Group Count": 1,
       "Max Group Count": 2
     },
     {
@@ -139,6 +145,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieMushroom",
       "Weight": 40,
       "Min Group Count": 8,
@@ -159,6 +171,12 @@
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityBanshee",
       "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "ua.myxazaur.caves.entity.JungleSlime",
+      "Weight": 100,
       "Min Group Count": 1,
       "Max Group Count": 2
     }

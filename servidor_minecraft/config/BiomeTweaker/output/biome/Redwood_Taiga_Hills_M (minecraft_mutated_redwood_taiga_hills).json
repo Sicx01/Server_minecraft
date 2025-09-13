@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MEGA_TAIGA_SPRUCE_TREES",
-    "FOREST",
-    "HILLS",
     "DENSE",
+    "FOREST",
     "RARE",
+    "HILLS",
+    "MEGA_TAIGA_SPRUCE_TREES",
     "THEMED_TREES"
   ],
   "BiomeManager Entries": {},
@@ -108,6 +108,12 @@
       "Weight": 95,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityUndeadSwine",

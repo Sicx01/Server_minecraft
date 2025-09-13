@@ -20,8 +20,8 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
     "HOT",
+    "DRY",
     "SANDY"
   ],
   "BiomeManager Entries": {},
@@ -51,6 +51,12 @@
       "Weight": 19,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityPtera",
@@ -99,6 +105,12 @@
       "Weight": 10,
       "Min Group Count": 4,
       "Max Group Count": 8
+    },
+    {
+      "Entity Class": "ua.myxazaur.caves.entity.Mummy",
+      "Weight": 100,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [],

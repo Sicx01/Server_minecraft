@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPOOKY",
-    "BIRCH_TREES",
-    "FOREST",
     "DENSE",
-    "THEMED_TREES"
+    "FOREST",
+    "SPOOKY",
+    "THEMED_TREES",
+    "BIRCH_TREES"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -123,6 +123,12 @@
       "Weight": 95,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityUndeadSwine",

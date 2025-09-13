@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "JUNGLE",
-    "FOREST",
     "HOT",
-    "RARE",
-    "WET"
+    "WET",
+    "FOREST",
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -199,6 +199,12 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieMushroom",
       "Weight": 40,
       "Min Group Count": 8,
@@ -225,6 +231,12 @@
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityBanshee",
       "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "ua.myxazaur.caves.entity.JungleSlime",
+      "Weight": 100,
       "Min Group Count": 1,
       "Max Group Count": 2
     }

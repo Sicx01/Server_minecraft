@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "CONIFEROUS",
-    "FOREST",
-    "COLD",
     "SNOWY",
     "MOUNTAIN",
-    "RARE"
+    "FOREST",
+    "RARE",
+    "COLD",
+    "CONIFEROUS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -144,6 +144,12 @@
       "Weight": 95,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieFrozen",

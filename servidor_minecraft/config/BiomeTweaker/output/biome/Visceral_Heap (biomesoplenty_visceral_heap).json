@@ -83,6 +83,12 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntitySalamander",
       "Weight": 30,
       "Min Group Count": 4,

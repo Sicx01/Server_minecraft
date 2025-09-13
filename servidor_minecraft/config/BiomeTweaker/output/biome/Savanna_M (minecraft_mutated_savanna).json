@@ -20,12 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "HOT",
+    "MOUNTAIN",
+    "RARE",
     "DRY",
     "SPARSE",
-    "SAVANNA",
-    "MOUNTAIN",
-    "HOT",
-    "RARE"
+    "SAVANNA"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -78,6 +78,12 @@
       "Weight": 95,
       "Min Group Count": 4,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityPtera",
