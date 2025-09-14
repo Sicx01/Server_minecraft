@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-09-14 03:21:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:28:25 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-14 03:18:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/fir_planks": {
     "criteria": {
       "has_log": "2025-09-14 01:33:52 +0000"
@@ -323,7 +335,9 @@
       "bread": "2025-09-14 02:03:15 +0000",
       "cookie": "2025-09-14 01:52:34 +0000",
       "rotten_flesh": "2025-09-14 01:43:21 +0000",
-      "golden_carrot": "2025-09-14 02:05:43 +0000"
+      "golden_carrot": "2025-09-14 02:05:43 +0000",
+      "mushroom_stew": "2025-09-14 03:18:43 +0000",
+      "rabbit_stew": "2025-09-14 03:18:35 +0000"
     },
     "done": false
   },
@@ -645,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-14 03:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-09-14 03:09:44 +0000"
@@ -879,6 +899,12 @@
     },
     "done": false
   },
+  "trashcans:recipes/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-14 03:21:15 +0000"
+    },
+    "done": true
+  },
   "hbm:bobassembly": {
     "criteria": {
       "crafting_table": "2025-09-14 02:12:19 +0000"
@@ -897,9 +923,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-09-14 03:21:28 +0000"
+    },
+    "done": true
+  },
   "mod_lavacow:mod_lavacow/kill_vespa": {
     "criteria": {
       "kill_vespa": "2025-09-14 02:02:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2025-09-14 03:18:35 +0000"
     },
     "done": true
   },
@@ -918,6 +956,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-09-13 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-09-14 03:21:28 +0000"
     },
     "done": true
   },
