@@ -717,6 +717,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "craft": "2025-09-14 02:20:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:warhammer": {
     "criteria": {
       "craft": "2025-09-14 02:17:25 +0000"
