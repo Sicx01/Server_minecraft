@@ -1,19 +1,13 @@
 {
-  "minecraft:recipes/redstone/wooden_button": {
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "has_stick": "2025-09-14 05:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2025-09-14 05:07:25 +0000"
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
@@ -23,9 +17,33 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
@@ -41,39 +59,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fence": {
-    "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
-    },
-    "done": true
-  },
   "mod_lavacow:mod_lavacow/root": {
     "criteria": {
       "tick": "2025-09-14 05:04:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
-      "has_stick": "2025-09-14 05:08:03 +0000"
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
-  "cfm:root": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "tick": "2025-09-14 05:04:46 +0000"
+      "get_stone": "2025-09-14 05:09:33 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2025-09-14 05:10:40 +0000"
+    },
+    "done": false
   },
   "trashcans:recipes/item_trash_can": {
     "criteria": {
       "recipe_condition": "2025-09-14 05:04:46 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-14 05:07:25 +0000"
     },
     "done": true
   },
@@ -86,6 +110,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2025-09-14 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
@@ -107,9 +137,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "consumed_item": "2025-09-14 05:15:56 +0000"
     },
     "done": true
   },
@@ -125,9 +155,15 @@
     },
     "done": true
   },
-  "hbm:root": {
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
-      "crafting_table": "2025-09-14 05:08:03 +0000"
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
     },
     "done": true
   },
@@ -137,9 +173,9 @@
     },
     "done": true
   },
-  "buildcraftcore:root": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_stick": "2025-09-14 05:08:03 +0000"
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
     },
     "done": true
   },
@@ -149,15 +185,15 @@
     },
     "done": true
   },
-  "cfm:install": {
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
-      "tick": "2025-09-14 05:04:46 +0000"
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
+  "cfm:install": {
     "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "tick": "2025-09-14 05:04:46 +0000"
     },
     "done": true
   },
@@ -167,21 +203,15 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "crafting_table": "2025-09-14 05:08:03 +0000"
+      "has_stone_pickaxe": "2025-09-14 05:09:51 +0000"
     },
     "done": true
   },
-  "exoticbirds:eb/root": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "trigger_1": "2025-09-14 05:04:46 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
     },
     "done": true
   },
@@ -215,15 +245,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_door": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_planks": "2025-09-14 05:08:00 +0000"
+      "killed_something": "2025-09-14 05:10:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-09-14 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-14 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_cod": "2025-09-14 05:15:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-09-14 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2025-09-14 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "hbm:root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-14 05:09:51 +0000"
+    },
+    "done": true
+  },
+  "buildcraftcore:root": {
+    "criteria": {
+      "has_stick": "2025-09-14 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-09-14 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/root": {
+    "criteria": {
+      "trigger_1": "2025-09-14 05:04:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 05:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2025-09-14 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-14 05:11:39 +0000"
     },
     "done": true
   }
