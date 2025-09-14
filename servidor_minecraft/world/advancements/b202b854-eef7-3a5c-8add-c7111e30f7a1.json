@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-14 02:16:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
@@ -369,15 +375,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-14 02:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:25 +0000"
     },
     "done": true
   },
+  "hbm:bobmetalworks": {
+    "criteria": {
+      "crafting_table": "2025-09-14 02:12:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-14 02:16:23 +0000"
     },
     "done": true
   },
@@ -396,6 +420,18 @@
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-09-14 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-09-14 02:16:58 +0000"
     },
     "done": true
   },
@@ -567,9 +603,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-14 02:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-14 02:16:23 +0000"
     },
     "done": true
   },
@@ -627,9 +675,21 @@
     },
     "done": false
   },
+  "hbm:bobassembly": {
+    "criteria": {
+      "crafting_table": "2025-09-14 02:12:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-09-14 02:11:50 +0000"
     },
     "done": true
   },
@@ -654,6 +714,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-09-13 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "craft": "2025-09-14 02:17:25 +0000"
     },
     "done": true
   },
