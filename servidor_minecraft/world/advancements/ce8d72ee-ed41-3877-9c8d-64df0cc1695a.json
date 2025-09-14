@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:33 +0000"
@@ -283,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 03:09:40 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:eb/root": {
     "criteria": {
       "trigger_1": "2025-09-14 01:12:24 +0000"
@@ -304,6 +316,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2025-09-14 03:15:11 +0000"
     },
     "done": true
   },
@@ -457,6 +475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-09-14 03:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-09-14 01:41:29 +0000"
@@ -535,6 +559,12 @@
     },
     "done": true
   },
+  "hbm:root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 03:09:40 +0000"
+    },
+    "done": true
+  },
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2025-09-14 01:28:48 +0000"
@@ -550,6 +580,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-09-14 01:19:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:11 +0000"
     },
     "done": true
   },

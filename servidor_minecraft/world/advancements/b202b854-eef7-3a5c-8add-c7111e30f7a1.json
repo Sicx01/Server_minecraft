@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
     },
     "done": true
   },
@@ -47,6 +59,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:25 +0000"
@@ -56,6 +80,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-14 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -80,6 +110,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-09-14 01:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
     },
     "done": true
   },
@@ -122,6 +158,12 @@
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -173,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-09-14 01:28:25 +0000"
@@ -188,6 +236,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-09-14 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -218,6 +272,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
     },
     "done": true
   },
@@ -291,9 +351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-14 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:14:54 +0000"
     },
     "done": true
   },
@@ -321,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-09-14 03:12:27 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:37:50 +0000"
@@ -330,6 +408,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-14 01:50:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -399,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-14 02:16:23 +0000"
@@ -441,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2025-09-14 03:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-09-14 03:00:13 +0000"
@@ -450,6 +546,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2025-09-14 01:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -501,6 +603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-14 03:09:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-09-14 01:28:53 +0000"
@@ -528,6 +642,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
     },
     "done": true
   },
@@ -609,6 +729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-09-14 03:09:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:37:50 +0000"
@@ -645,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
@@ -672,6 +804,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
     },
     "done": true
   },
@@ -825,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:15:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
@@ -840,6 +984,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-09-14 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 03:14:54 +0000"
     },
     "done": true
   },
