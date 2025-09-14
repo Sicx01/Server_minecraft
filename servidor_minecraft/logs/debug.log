@@ -18418,3 +18418,210 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [06:19:24] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
 [06:19:24] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
 [06:19:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: canchitacumm has made the advancement [Sweet dreams]
+[06:20:09] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 465 times.
+
+[06:20:09] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 465 times.
+
+[06:20:09] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 465 times.
+
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:20:09] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:20:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:20:54] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:20:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:20:59] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 470 times.
+
+[06:20:59] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 470 times.
+
+[06:20:59] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 470 times.
+
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:21:39] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:21:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:21:42] [Netty Epoll Server IO #0/INFO] [naturescompass]: Starting search: 64 sample space, 10000 max distance
+[06:21:43] [Server thread/INFO] [naturescompass]: Search succeeded: 389 radius, 83 samples
+[06:21:49] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 475 times.
+
+[06:21:49] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 475 times.
+
+[06:21:49] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 475 times.
+
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:22:24] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:22:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:22:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sicxtino was slain by Unburied
+[06:22:26] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@6e23ba17
+[06:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: axalc was slain by Unburied
+[06:22:39] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 480 times.
+
+[06:22:39] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 480 times.
+
+[06:22:39] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 480 times.
+
+[06:22:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: noto has made the advancement [A Cut Above the Rest]
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:23:09] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:23:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Teleported axalc to noto]
+[06:23:29] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 485 times.
+
+[06:23:29] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 485 times.
+
+[06:23:29] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 485 times.
+
+[06:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Meli_6431 was slain by Unburied
+[06:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Teleported Sicxtino to axalc]
+[06:23:46] [Netty Epoll Server IO #5/TRACE] [Spartan Weaponry]: Read data from byte buffer to packet.
+[06:23:46] [Server thread/DEBUG] [Spartan Weaponry]: Victim of attack: EntityUnburied['Unburied'/3960667, l='world', x=-319.69, y=34.00, z=-168.13]
+[06:23:46] [Server thread/DEBUG] [Spartan Weaponry]: Attacking victim!
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:23:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:23:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:shotgun12gauge
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:05] [Server thread/TRACE] [FML]: Unable to find item with name mw:shotgun12gauge
+[06:24:19] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 490 times.
+
+[06:24:19] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 490 times.
+
+[06:24:19] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 490 times.
+
+[06:24:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LittleHappyMan has made the advancement [Steel]
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:24:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:24:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:shotgun12gauge
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:shotgun12gauge
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:rpg7_rocket
+[06:24:41] [Server thread/TRACE] [FML]: Unable to find item with name mw:shotgun12gauge
+[06:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sicxtino was slain by Unburied
+[06:25:09] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 495 times.
+
+[06:25:09] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 495 times.
+
+[06:25:09] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 495 times.
+
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:25:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:25:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:25:59] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 500 times.
+
+[06:25:59] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 500 times.
+
+[06:25:59] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 500 times.
+
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:26:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:26:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to Sicxtino]
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to Meli_6431]
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to axalc]
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to noto]
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to LittleHappyMan]
+[06:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [Bandage] * 3 to canchitacumm]
+[06:26:49] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 505 times.
+
+[06:26:49] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 505 times.
+
+[06:26:49] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 505 times.
+
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:26:54] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:26:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to Sicxtino]
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to Meli_6431]
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to noto]
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to axalc]
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to LittleHappyMan]
+[06:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Given [White Bed] * 1 to canchitacumm]
+[06:27:39] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 510 times.
+
+[06:27:39] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 510 times.
+
+[06:27:39] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 510 times.
+
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:27:39] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:27:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: canchitacumm has made the advancement [Steel]
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:28:24] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:28:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:28:29] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 515 times.
+
+[06:28:29] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 515 times.
+
+[06:28:29] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 515 times.
+
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for LittleHappyMan.
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for canchitacumm.
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for axalc.
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[06:29:09] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[06:29:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:29:19] [Server thread/DEBUG] [FML]: The world 2a28ba17 (world) may have leaked: seen 520 times.
+
+[06:29:19] [Server thread/DEBUG] [FML]: The world 7a6f8754 (world) may have leaked: seen 520 times.
+
+[06:29:19] [Server thread/DEBUG] [FML]: The world 689921f3 (world) may have leaked: seen 520 times.
+
+[06:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LittleHappyMan was slain by Zombie Fireman

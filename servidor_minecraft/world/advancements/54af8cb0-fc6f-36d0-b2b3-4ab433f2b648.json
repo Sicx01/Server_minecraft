@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-09-14 06:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-14 06:19:12 +0000"
@@ -410,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 06:25:10 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/oak_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 05:07:25 +0000"
@@ -455,6 +467,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-09-14 05:21:45 +0000"
+    },
+    "done": true
+  },
+  "hbm:progress_steel": {
+    "criteria": {
+      "crafting_table": "2025-09-14 06:24:35 +0000"
     },
     "done": true
   },
@@ -719,6 +737,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-14 05:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-09-14 06:24:20 +0000"
     },
     "done": true
   },
@@ -1004,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-14 06:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-14 05:09:33 +0000"
@@ -1034,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-09-14 06:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-14 05:11:39 +0000"
@@ -1043,6 +1079,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-14 06:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-09-14 06:24:20 +0000"
     },
     "done": true
   }
