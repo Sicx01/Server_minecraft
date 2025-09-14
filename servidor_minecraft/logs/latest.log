@@ -4425,3 +4425,99 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:40:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
 [01:40:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
 [01:40:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Set own game mode to Creative Mode]
+[01:40:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sicxtino: Set own game mode to Survival Mode]
+[01:41:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:41:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:41:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:41:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Meli_6431 has made the advancement [Monster Hunter]
+[01:41:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Meli_6431 was slain by Zombie
+[01:41:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:41:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:41:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:42:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:42:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:42:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:43:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:43:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:43:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:44:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:44:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:44:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:44:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:44:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:44:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:45:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:45:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:45:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:46:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:46:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:46:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:47:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:47:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:47:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:47:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:47:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:47:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:48:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:48:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:48:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:49:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:49:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:49:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sicxtino has made the advancement [Getting an Upgrade]
+[01:50:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:50:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:50:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:50:08] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:09] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:09] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:10] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:11] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:12] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:13] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:14] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:15] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:16] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:17] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@535be281
+[01:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sicxtino has made the advancement [Isn't It Iron Pick]
+[01:50:53] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:50:53] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:50:53] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:51:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:51:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:51:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:52:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:52:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:52:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:53:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:53:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:53:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:53:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:53:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:53:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:54:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:54:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:54:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:55:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:55:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:55:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:56:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:56:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:56:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:56:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:56:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:56:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sicxtino has made the advancement [Steel]
+[01:57:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:57:37] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:57:37] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:58:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:58:22] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:58:22] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:59:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:59:07] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:59:07] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
+[01:59:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Sicxtino.
+[01:59:52] [Server thread/INFO] [gamestages]: Saved 0 stages for noto.
+[01:59:52] [Server thread/INFO] [gamestages]: Saved 0 stages for Meli_6431.
