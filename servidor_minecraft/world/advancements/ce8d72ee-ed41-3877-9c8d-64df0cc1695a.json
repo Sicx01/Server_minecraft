@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-14 02:09:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:28:41 +0000"
@@ -392,6 +398,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-09-14 01:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-09-14 02:09:02 +0000"
     },
     "done": true
   },

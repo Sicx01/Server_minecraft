@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 02:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-09-14 01:27:34 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-14 02:00:06 +0000"
     },
     "done": true
   },
