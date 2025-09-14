@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-09-14 05:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-09-14 05:02:04 +0000"
@@ -444,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2025-09-14 05:21:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-09-14 05:02:04 +0000"
@@ -528,6 +540,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-14 05:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-09-14 05:12:10 +0000"
@@ -585,6 +603,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 05:02:14 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/kill_vespa": {
+    "criteria": {
+      "kill_vespa": "2025-09-14 05:24:15 +0000"
     },
     "done": true
   },

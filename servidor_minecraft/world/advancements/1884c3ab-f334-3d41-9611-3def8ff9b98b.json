@@ -290,7 +290,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beetroot_soup": "2025-09-14 05:15:47 +0000",
-      "rotten_flesh": "2025-09-14 05:11:09 +0000"
+      "rotten_flesh": "2025-09-14 05:11:09 +0000",
+      "cooked_salmon": "2025-09-14 05:27:44 +0000"
     },
     "done": false
   },
@@ -483,6 +484,13 @@
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 05:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-14 05:28:39 +0000",
+      "iron_leggings": "2025-09-14 05:28:39 +0000"
     },
     "done": true
   },
@@ -689,6 +697,12 @@
       "zombie": "2025-09-14 05:06:05 +0000"
     },
     "done": false
+  },
+  "trashcans:recipes/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-14 05:28:39 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/food/bowl_of_rice": {
     "criteria": {
