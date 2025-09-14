@@ -1,0 +1,44 @@
+{
+  "exoticbirds:eb/root": {
+    "criteria": {
+      "trigger_1": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "mod_lavacow:mod_lavacow/root": {
+    "criteria": {
+      "tick": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-09-14 05:05:01 +0000"
+    },
+    "done": true
+  }
+}
