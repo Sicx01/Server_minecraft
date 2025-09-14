@@ -295,6 +295,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-09-14 06:06:47 +0000",
       "cooked_salmon": "2025-09-14 05:49:18 +0000"
     },
     "done": false
@@ -356,6 +357,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 05:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-14 06:02:05 +0000"
     },
     "done": true
   },
@@ -620,6 +627,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-14 05:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-09-14 06:01:34 +0000"
     },
     "done": true
   },

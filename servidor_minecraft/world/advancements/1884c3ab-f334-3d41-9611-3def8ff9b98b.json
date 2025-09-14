@@ -628,6 +628,12 @@
     },
     "done": true
   },
+  "hbm:root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 06:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-14 05:50:20 +0000"
@@ -784,6 +790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-09-14 06:05:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2025-09-14 05:06:47 +0000"
@@ -919,6 +931,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-09-14 05:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-14 06:11:54 +0000"
     },
     "done": true
   },
