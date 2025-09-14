@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-09-14 03:46:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 01:27:34 +0000"
@@ -271,7 +277,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beetroot_soup": "2025-09-14 03:43:47 +0000",
       "bread": "2025-09-14 01:26:27 +0000",
+      "cookie": "2025-09-14 03:41:57 +0000",
       "golden_carrot": "2025-09-14 03:26:58 +0000",
       "mushroom_stew": "2025-09-14 03:09:55 +0000"
     },
@@ -328,6 +336,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-09-14 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-14 03:45:34 +0000"
     },
     "done": true
   },
