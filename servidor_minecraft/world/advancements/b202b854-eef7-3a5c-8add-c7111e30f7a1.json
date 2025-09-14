@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "iblis_headshots:adventure/get_head_shot": {
+    "criteria": {
+      "player": "2025-09-14 03:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-09-14 03:00:13 +0000"
@@ -716,6 +722,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-09-14 01:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-14 04:07:09 +0000"
     },
     "done": true
   },

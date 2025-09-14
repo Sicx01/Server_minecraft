@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
@@ -11,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
@@ -20,6 +32,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
     },
     "done": true
   },
@@ -38,6 +56,30 @@
   "mod_lavacow:mod_lavacow/root": {
     "criteria": {
       "tick": "2025-09-14 03:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
     },
     "done": true
   },
@@ -83,6 +125,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-09-14 04:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
@@ -95,15 +149,21 @@
     },
     "done": true
   },
-  "cfm:install": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "tick": "2025-09-14 03:49:17 +0000"
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
     },
     "done": true
   },
-  "mutantbeasts:root": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "killed_something": "2025-09-14 03:52:25 +0000"
+      "stone_pickaxe": "2025-09-14 04:01:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-09-14 03:49:17 +0000"
     },
     "done": true
   },
@@ -113,9 +173,21 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-09-14 03:52:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/root": {
+    "criteria": {
+      "trigger_1": "2025-09-14 03:49:17 +0000"
     },
     "done": true
   },
@@ -131,9 +203,15 @@
     },
     "done": true
   },
-  "exoticbirds:eb/root": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "trigger_1": "2025-09-14 03:49:17 +0000"
+      "has_stone_pickaxe": "2025-09-14 04:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
     },
     "done": true
   },
@@ -146,6 +224,12 @@
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2025-09-14 03:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-14 04:01:39 +0000"
     },
     "done": true
   },
