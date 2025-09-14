@@ -370,6 +370,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-14 05:52:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-14 05:31:34 +0000"

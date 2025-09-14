@@ -290,7 +290,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-09-14 05:15:56 +0000",
-      "bread": "2025-09-14 05:48:15 +0000"
+      "bread": "2025-09-14 05:48:15 +0000",
+      "cookie": "2025-09-14 05:56:44 +0000",
+      "golden_carrot": "2025-09-14 05:57:11 +0000"
     },
     "done": false
   },
@@ -504,6 +506,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2025-09-14 05:51:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 05:34:25 +0000"
@@ -707,6 +715,12 @@
       "zombie": "2025-09-14 05:21:15 +0000"
     },
     "done": false
+  },
+  "mod_lavacow:mod_lavacow/kill_vespa": {
+    "criteria": {
+      "kill_vespa": "2025-09-14 05:50:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
